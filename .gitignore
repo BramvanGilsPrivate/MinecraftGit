@@ -1,0 +1,19 @@
+#Ignore Cache File
+/MultiMC/metacache
+
+#Ignore Configuration specific files
+/MultiMC/multimc.cfg
+
+#Ignore all logs
+MultiMC/*.log
+
+#Ignore notifications
+MultiMC/notifications.json
+
+# Ignore theme specific files
+/MultiMC/themes/custom/theme.json
+/MultiMC/themes/custom/themeStyle.css
+
+# Ignore translation specific files
+MultiMC/translations/index
+MultiMC/translations/mmc_nl.qm
