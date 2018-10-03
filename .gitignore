@@ -21,3 +21,6 @@
 # Ignore all account related data
 /MultiMC/accounts.json
 /MultiMC/accounts/*
+
+# Ignore instance Configuration
+/MultiMC/instances/*/*.cfg
