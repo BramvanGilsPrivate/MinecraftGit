@@ -17,3 +17,7 @@ MultiMC/notifications.json
 # Ignore translation specific files
 MultiMC/translations/index
 MultiMC/translations/mmc_nl.qm
+
+# Ignore all account related data
+MultiMC/accounts.json
+MultiMC/accounts/*
