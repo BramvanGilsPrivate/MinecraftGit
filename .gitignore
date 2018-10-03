@@ -24,6 +24,3 @@
 
 # Ignore instance Configuration
 /MultiMC/instances/*/*.cfg
-
-# Ignore Metadata
-/MultiMC/meta/index.json
