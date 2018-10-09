@@ -1,0 +1,4995 @@
+{
+    "formatVersion": 1,
+    "name": "Minecraft",
+    "uid": "net.minecraft",
+    "versions": [
+        {
+            "recommended": true,
+            "releaseTime": "2018-08-22T14:03:42+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "45fd464f522998a9b611ef848d8f07ee3592791f6632d38388079616f6df39a2",
+            "type": "release",
+            "version": "1.13.1"
+        },
+        {
+            "releaseTime": "2018-08-20T13:52:09+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "ce239a1edcb857e177f2cbfd11aa5e2e612e50f57226398d1d7e47981080960e",
+            "type": "snapshot",
+            "version": "1.13.1-pre2"
+        },
+        {
+            "releaseTime": "2018-08-16T13:08:44+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "ce4cfb7edcc07662686b78ca9eb9b2695d046884096878f8b90f95134cad28ce",
+            "type": "snapshot",
+            "version": "1.13.1-pre1"
+        },
+        {
+            "releaseTime": "2018-08-15T14:28:56+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "d32fd01759feac312d850b962b57c1a2cb676ab60169a0efcfe029703f91de7d",
+            "type": "snapshot",
+            "version": "18w33a"
+        },
+        {
+            "releaseTime": "2018-08-08T13:16:57+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "faf805f66f30ab2066c5ab2a7f13e42a1cc92aa85d5fa9571d87c787aa4fd091",
+            "type": "snapshot",
+            "version": "18w32a"
+        },
+        {
+            "releaseTime": "2018-08-01T12:54:44+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "94239f19f00857773f8b97a2a604f80cba861bfc1933306c7cd4a1a6f6e29b8e",
+            "type": "snapshot",
+            "version": "18w31a"
+        },
+        {
+            "releaseTime": "2018-07-26T16:06:57+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "a45ee581997b4a23f8f1b7e386830100475472e14300e1d606ccf96c2d1ee5df",
+            "type": "snapshot",
+            "version": "18w30b"
+        },
+        {
+            "releaseTime": "2018-07-25T14:29:31+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "7bfc3af776eb9c2d653d2d7d0d60c48d28280fccff5413771f4f3ffc2e84a957",
+            "type": "snapshot",
+            "version": "18w30a"
+        },
+        {
+            "releaseTime": "2018-07-18T15:11:46+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "5a21f7c04f5cf44c9c227af67e6305da9241b625a0a3cfabf7f554fbf3d4b1b3",
+            "type": "release",
+            "version": "1.13"
+        },
+        {
+            "releaseTime": "2018-07-17T14:48:06+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "0e362b5d039df710c98894c8d928095e6f031e233b5ee67fb26af4d357e6a382",
+            "type": "snapshot",
+            "version": "1.13-pre10"
+        },
+        {
+            "releaseTime": "2018-07-16T14:17:42+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "ed78357610caac2bd930553e2229c37d8dc6bd3d1bd4fafeace7e7dc15f4acfd",
+            "type": "snapshot",
+            "version": "1.13-pre9"
+        },
+        {
+            "releaseTime": "2018-07-13T11:45:00+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "79bbeeb1fd86d3169e70a3fc2ebfee1514245ec6731437afa27857dcd41a33a4",
+            "type": "snapshot",
+            "version": "1.13-pre8"
+        },
+        {
+            "releaseTime": "2018-07-10T14:21:42+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "ef547ccbfd15d9af8b89a19c68fbeef09a5ab0e8e5044027cb66711180e0fedd",
+            "type": "snapshot",
+            "version": "1.13-pre7"
+        },
+        {
+            "releaseTime": "2018-07-04T12:36:00+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "8a4e5db35fc4c1359890db9f4df6a80b85b3f00193a80a2cd102fe6c2629e0f3",
+            "type": "snapshot",
+            "version": "1.13-pre6"
+        },
+        {
+            "releaseTime": "2018-06-28T13:58:53+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "6e8690ca09c82dd8dd50d73d8ee9ab16da8f8fed4b4dd46a4328068323396ff0",
+            "type": "snapshot",
+            "version": "1.13-pre5"
+        },
+        {
+            "releaseTime": "2018-06-26T13:00:55+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.6",
+                    "suggests": "3.1.6",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "09ec75abdbd7973163a2020432e06a30f9e9dbac926e5b7b54c8dcb219f64aeb",
+            "type": "snapshot",
+            "version": "1.13-pre4"
+        },
+        {
+            "releaseTime": "2018-06-21T12:57:11+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "aa75bce6d0376ad1446082b293b54b4ad5d9d938c8753cfac605a7f00a4807b9",
+            "type": "snapshot",
+            "version": "1.13-pre3"
+        },
+        {
+            "releaseTime": "2018-06-15T09:20:00+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "5c677d14f094095648ed7d3321986775b44eeaafa4a340b1a38c43330a2ad397",
+            "type": "snapshot",
+            "version": "1.13-pre2"
+        },
+        {
+            "releaseTime": "2018-06-04T15:17:34+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "56b9360be12dab1f4a959beebf48e5c36d4058218948e1837ae3f097a9329617",
+            "type": "snapshot",
+            "version": "1.13-pre1"
+        },
+        {
+            "releaseTime": "2018-05-31T13:53:15+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "2089642c1eaa725c6d3e9ba7960cbaeaeb7b65790aae027e0a874b080e1da3ee",
+            "type": "snapshot",
+            "version": "18w22c"
+        },
+        {
+            "releaseTime": "2018-05-30T13:48:58+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "b0000d2f114f089a52dd4997537f4ee31366ab7c1cc271ed398df3b676c2027c",
+            "type": "snapshot",
+            "version": "18w22b"
+        },
+        {
+            "releaseTime": "2018-05-29T13:23:55+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "e89856ed011bee71b4809cea46f74771af09873ab7e1eecb4e08a6dfe03d2443",
+            "type": "snapshot",
+            "version": "18w22a"
+        },
+        {
+            "releaseTime": "2018-05-25T10:09:09+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "fd9e57f407b5090c6994982750bbbed70ee8bf95d2692899aea2867fd4c7b98f",
+            "type": "snapshot",
+            "version": "18w21b"
+        },
+        {
+            "releaseTime": "2018-05-23T13:11:49+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "cb87c13174844ebb6eb3830a443de13b5c04e2d1eb8f7903617c81fc4118845f",
+            "type": "snapshot",
+            "version": "18w21a"
+        },
+        {
+            "releaseTime": "2018-05-17T14:06:56+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "d79f195dbefe6b6c31c1e09c68ed9b03aad569957789f08721a82fc0b0062127",
+            "type": "snapshot",
+            "version": "18w20c"
+        },
+        {
+            "releaseTime": "2018-05-16T14:35:35+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "a4b00af3c6bcc1568af2361cc1b79d9932a7e1bc361b8379ef3408774f51eb34",
+            "type": "snapshot",
+            "version": "18w20b"
+        },
+        {
+            "releaseTime": "2018-05-15T14:02:25+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "1aed0e4fb743df507c27d9284457b4c77827549902177729e3c35faf95268197",
+            "type": "snapshot",
+            "version": "18w20a"
+        },
+        {
+            "releaseTime": "2018-05-09T10:00:51+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "bc591127272cd655b576943d81955321b43843fb4c9e2f657bca087a0867187d",
+            "type": "snapshot",
+            "version": "18w19b"
+        },
+        {
+            "releaseTime": "2018-05-08T13:05:19+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "ea17448eff527d517a70d52ca6e71d922da529fefaf89f3c2fdeccb20a90a7b3",
+            "type": "snapshot",
+            "version": "18w19a"
+        },
+        {
+            "releaseTime": "2018-04-19T14:46:35+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "c602ec69d4d9fe03967837301d0bde64cb08d497369a05a812f4c0a4788be5aa",
+            "type": "snapshot",
+            "version": "18w16a"
+        },
+        {
+            "releaseTime": "2018-04-11T14:54:22+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "49690b822cf2676c168eebce3372b1caaa81b0c7181404a87215c961afc14d3b",
+            "type": "snapshot",
+            "version": "18w15a"
+        },
+        {
+            "releaseTime": "2018-04-05T14:44:02+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "a0d5016a619f14d9c8a158fac94408a6695b0b95b8a8c0d15315b92e0eee0e4f",
+            "type": "snapshot",
+            "version": "18w14b"
+        },
+        {
+            "releaseTime": "2018-04-04T14:36:14+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "2b91679a89f256e9c093bd1e10a8229b404ecdfbb4dcfe61b3dd704853827dfd",
+            "type": "snapshot",
+            "version": "18w14a"
+        },
+        {
+            "releaseTime": "2018-03-13T15:10:59+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "9857c103d983b62b71dae58f098c4cabb95af799d67c1fffb2e5c66a15f405f4",
+            "type": "snapshot",
+            "version": "18w11a"
+        },
+        {
+            "releaseTime": "2018-03-09T15:19:12+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "8b5e17e7df7608cd070cd4032402958fa450956f9ae13d085d3465bf86874d0b",
+            "type": "snapshot",
+            "version": "18w10d"
+        },
+        {
+            "releaseTime": "2018-03-08T15:29:23+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "d997c047792ea5e0ce27f53970ffb751874c07d549e8a6c1a4c6854a91caf1ae",
+            "type": "snapshot",
+            "version": "18w10c"
+        },
+        {
+            "releaseTime": "2018-03-07T15:56:01+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "4b8cf1645adab6715858c2525c61f0c73a79976631695e5592f16f4d6e06365e",
+            "type": "snapshot",
+            "version": "18w10b"
+        },
+        {
+            "releaseTime": "2018-03-06T15:54:24+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "d4de7c69dc9cc4e00f02cb12e55fc49d920a865771a7b2fe8043606ccfdb6660",
+            "type": "snapshot",
+            "version": "18w10a"
+        },
+        {
+            "releaseTime": "2018-03-01T14:15:10+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "a7d639a9276891231442577e9e18837108a276b5329bfab74364d7b17acb43bf",
+            "type": "snapshot",
+            "version": "18w09a"
+        },
+        {
+            "releaseTime": "2018-02-22T15:44:49+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "000434f746af9b7d539a3f4d73b928d7e07b60309aa591a2e3e10fdc576d6014",
+            "type": "snapshot",
+            "version": "18w08b"
+        },
+        {
+            "releaseTime": "2018-02-21T14:59:00+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "a47a690ac111ee416208aca69cdefb16e4a0e41004dc3f9eb44888ec078c55da",
+            "type": "snapshot",
+            "version": "18w08a"
+        },
+        {
+            "releaseTime": "2018-02-16T13:23:32+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "08882748f120f60387c3d22c5dedddb2d26e8b552a77453bdffbb0f25c2785fc",
+            "type": "snapshot",
+            "version": "18w07c"
+        },
+        {
+            "releaseTime": "2018-02-15T14:28:42+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "3a48c72cd14918d92efd1ddd5711501f5293feb9910eb5a3fda6556a620b152f",
+            "type": "snapshot",
+            "version": "18w07b"
+        },
+        {
+            "releaseTime": "2018-02-14T17:34:13+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "91d2366401b47bbb4125a56d5ef056ab9c9d4d863bd1f50da8808bb38d4d18f1",
+            "type": "snapshot",
+            "version": "18w07a"
+        },
+        {
+            "releaseTime": "2018-02-09T12:09:55+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "09b850701a4e413ff20a470ff6559d0b270ffa09659cdce6f37a4c4d4401345a",
+            "type": "snapshot",
+            "version": "18w06a"
+        },
+        {
+            "releaseTime": "2018-01-31T13:32:09+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "52fd8693f50fbdfc9bc073f32aff4149311222ded21e6416443727eb4670df79",
+            "type": "snapshot",
+            "version": "18w05a"
+        },
+        {
+            "releaseTime": "2018-01-17T15:09:14+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "5b78e6c5ddf617d15aa9fab3b15c61445e24d7abe93c1268515c73be0c5bc699",
+            "type": "snapshot",
+            "version": "18w03b"
+        },
+        {
+            "releaseTime": "2018-01-17T14:25:24+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "6ff3c2f1db7967d523096fe5efe29ca678dd6e2a381f24a0f3c0778c0b9e4939",
+            "type": "snapshot",
+            "version": "18w03a"
+        },
+        {
+            "releaseTime": "2018-01-10T11:54:55+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "bf8d24ea71a4e47c9876c98338c47d0da24cff7909bacc92b34a79ac4b5ac107",
+            "type": "snapshot",
+            "version": "18w02a"
+        },
+        {
+            "releaseTime": "2018-01-03T13:29:30+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "6ff78d7a6006dc7676fc6cfb0fbef579df1fe685b8ffdfb36fe2e458e70eb90e",
+            "type": "snapshot",
+            "version": "18w01a"
+        },
+        {
+            "releaseTime": "2017-12-11T15:28:08+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "da9855fb97006be9b5ceb3ecb83d308eb6ba7ef8808b97d3e014485293e44e47",
+            "type": "snapshot",
+            "version": "17w50a"
+        },
+        {
+            "releaseTime": "2017-12-07T15:29:54+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "a77cae90dd7ade2d23f64bd3a6acbe2980892de43c8424f72b89012299ffe558",
+            "type": "snapshot",
+            "version": "17w49b"
+        },
+        {
+            "releaseTime": "2017-12-06T14:24:30+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "31b949302816a5ec201039e1ff8862aff0f003472f2355d41ee5f19bc31a774c",
+            "type": "snapshot",
+            "version": "17w49a"
+        },
+        {
+            "releaseTime": "2017-11-27T15:36:33+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "58a165c3aa3ee055b39d547aa47882309f1f7c33538465929c99769f0f143cba",
+            "type": "snapshot",
+            "version": "17w48a"
+        },
+        {
+            "releaseTime": "2017-11-23T15:30:12+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "71fd4ec0b260fef4171506d2ea2e15a2037694521310b0318c4e285a2f31b74f",
+            "type": "snapshot",
+            "version": "17w47b"
+        },
+        {
+            "releaseTime": "2017-11-22T12:40:05+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "46d2917db81304741f9a206446859a1417a75f214eb93a101e17990e1200b03c",
+            "type": "snapshot",
+            "version": "17w47a"
+        },
+        {
+            "releaseTime": "2017-11-15T15:21:55+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "523a1fde0ff1c022d3b085f1318a22c0054ec898d1d2f2d09af20cffd49fc682",
+            "type": "snapshot",
+            "version": "17w46a"
+        },
+        {
+            "releaseTime": "2017-11-10T10:07:02+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "aaefa666d7479e211a500e4cb2f58da346b02937684245e1cb9834d89d88ded0",
+            "type": "snapshot",
+            "version": "17w45b"
+        },
+        {
+            "releaseTime": "2017-11-08T15:48:00+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "0cb0a2d1a311076c965672eff9a5af5f197067dd5a97c5b4ca220fadfd099e31",
+            "type": "snapshot",
+            "version": "17w45a"
+        },
+        {
+            "releaseTime": "2017-10-26T13:36:22+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "549453c3004ea70b368c4b95d80ffb54caab359562a49643a3a1eb5b328faa2f",
+            "type": "snapshot",
+            "version": "17w43b"
+        },
+        {
+            "releaseTime": "2017-10-25T14:43:50+00:00",
+            "requires": [
+                {
+                    "equals": "3.1.2",
+                    "suggests": "3.1.2",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "8257dad770372dbee7f3e0e868365904435c7f5606a0eb0eda2d68f8a8b8088e",
+            "type": "snapshot",
+            "version": "17w43a"
+        },
+        {
+            "releaseTime": "2017-09-18T08:39:46+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "73152cc148fb941e0915a44c4ec90b11f55b566b44025f1ec85574d50fd1ec8c",
+            "type": "release",
+            "version": "1.12.2"
+        },
+        {
+            "releaseTime": "2017-09-15T08:21:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "45dba5f831a8556c5447b7bcd6ee48e10b7eed161226289398da55d9b0a6eda9",
+            "type": "snapshot",
+            "version": "1.12.2-pre2"
+        },
+        {
+            "releaseTime": "2017-09-13T13:33:31+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7ea14091f99629d3b2dff790728cea82bd76940c8456022f1523e9ba53fb2429",
+            "type": "snapshot",
+            "version": "1.12.2-pre1"
+        },
+        {
+            "releaseTime": "2017-08-03T12:40:39+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7620a733ee083fb8abe47896905369ff1b223f4120ae4def33fb538c14646114",
+            "type": "release",
+            "version": "1.12.1"
+        },
+        {
+            "releaseTime": "2017-08-02T10:53:55+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "440d4cb3561a67e4c358ce8bc77957b3cf4a920196ed0486c475a4530c59e5fe",
+            "type": "snapshot",
+            "version": "1.12.1-pre1"
+        },
+        {
+            "releaseTime": "2017-08-01T09:41:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b96a3b7936f54c929d01afc5fe299612cac1347984501dc4815c5b2eeb365130",
+            "type": "snapshot",
+            "version": "17w31a"
+        },
+        {
+            "releaseTime": "2017-06-02T13:50:27+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8d84be1bc89cca2de8d5e44c90d52902ad281d5f994a6aa9d481c96f51dd9a36",
+            "type": "release",
+            "version": "1.12"
+        },
+        {
+            "releaseTime": "2017-05-31T10:56:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "5c460b72145ff379974dc2f068dde065947911e4e847599d9ec47a9d683950ba",
+            "type": "snapshot",
+            "version": "1.12-pre7"
+        },
+        {
+            "releaseTime": "2017-05-29T11:45:12+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8175d8756c75ac854f4a02602c44df54ce7fb3bc0acc8e3ed4be5a0aec5fbd51",
+            "type": "snapshot",
+            "version": "1.12-pre6"
+        },
+        {
+            "releaseTime": "2017-05-19T07:43:28+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ddabef3df93de6d9d09b12b8ada4b8e151b8b997e54457d7ef1c9971950216c9",
+            "type": "snapshot",
+            "version": "1.12-pre5"
+        },
+        {
+            "releaseTime": "2017-05-18T12:28:16+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7fc19477859abeccc80757f1c62c446d7a4b004d119ef99274bfaa2aa93c000c",
+            "type": "snapshot",
+            "version": "1.12-pre4"
+        },
+        {
+            "releaseTime": "2017-05-17T14:09:18+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0710c80f86b7dc05006633ac406688cb25e6decbb1cc9f7b31f8879f4f85bb91",
+            "type": "snapshot",
+            "version": "1.12-pre3"
+        },
+        {
+            "releaseTime": "2017-05-11T12:11:12+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "1c4dc257fe61266ec9c646ad8f10fb1ee04688bd5bc8d9381f2ac459189a729b",
+            "type": "snapshot",
+            "version": "1.12-pre2"
+        },
+        {
+            "releaseTime": "2017-05-10T11:37:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8b839647c448f42edbab733c957db4e2a9302472913b169e06bb1f5c1622a8bd",
+            "type": "snapshot",
+            "version": "1.12-pre1"
+        },
+        {
+            "releaseTime": "2017-05-04T13:40:22+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "556e5ac301d7616e7d1809bbee001a4e2c8f2ccec092ebeebebf285171ddda4f",
+            "type": "snapshot",
+            "version": "17w18b"
+        },
+        {
+            "releaseTime": "2017-05-03T14:50:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ca98a59a760c4ee2fa1bc470cd9e7b72160c730306732422d6113e6f5859d456",
+            "type": "snapshot",
+            "version": "17w18a"
+        },
+        {
+            "releaseTime": "2017-04-27T13:24:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "403d41b490c24571fbb07b99ba576e3e3a1a1d6c4b8e6b370d66b59b5fc90024",
+            "type": "snapshot",
+            "version": "17w17b"
+        },
+        {
+            "releaseTime": "2017-04-26T13:48:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f45fa2a7f0d563a9f44194bd93e3653ae7f8ea484298a26a8b368fb3f2b2985f",
+            "type": "snapshot",
+            "version": "17w17a"
+        },
+        {
+            "releaseTime": "2017-04-21T12:02:59+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8935b5c73e31a529febe22b95dba0e4a1c20dc1ce1b30a3b1ebe8580ba720c0b",
+            "type": "snapshot",
+            "version": "17w16b"
+        },
+        {
+            "releaseTime": "2017-04-20T13:58:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e32b4a827a081e0da782bdb6e08dea1636e0d6bd7701cba799d3bae548e9dc0c",
+            "type": "snapshot",
+            "version": "17w16a"
+        },
+        {
+            "releaseTime": "2017-04-12T09:30:50+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "020379f2558ad65d7446f4938da7bf10767327f71b9218d605f18f58ab5acf25",
+            "type": "snapshot",
+            "version": "17w15a"
+        },
+        {
+            "releaseTime": "2017-04-05T13:58:01+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "07b1ff42498476bbaeaeccb63b086f55a17c8635fa0f607ca1303ecec6e228a5",
+            "type": "snapshot",
+            "version": "17w14a"
+        },
+        {
+            "releaseTime": "2017-03-31T11:06:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "fcb4b8600d846a21640b9fc7c397cb9f77b0d9da55a2a515ca35398f46a800b2",
+            "type": "snapshot",
+            "version": "17w13b"
+        },
+        {
+            "releaseTime": "2017-03-30T09:32:19+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "98d5a26ac2ac0050fadf3870fb791fcca77c694e07a2a16bddf8b7cba49bd736",
+            "type": "snapshot",
+            "version": "17w13a"
+        },
+        {
+            "releaseTime": "2017-02-08T13:16:29+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3452a84f379030ffd4c3b8438eafc283b8a187bccf22f94bc98aa00b4a5005b7",
+            "type": "snapshot",
+            "version": "17w06a"
+        },
+        {
+            "releaseTime": "2016-12-21T09:29:12+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "bb5157614590ff7fadc5282cb525a7b1775761ce487dccf8755c1bdd905a0af3",
+            "type": "release",
+            "version": "1.11.2"
+        },
+        {
+            "releaseTime": "2016-12-20T14:05:34+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "dd270e55f7abdd5b34aa2ef210115246b8183ffc4693ffdb9ff93f49a49ff129",
+            "type": "release",
+            "version": "1.11.1"
+        },
+        {
+            "releaseTime": "2016-12-15T14:38:52+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b495ab688a7b67c34f09fd6a83d19b5b896ef95862ba6b3e286c3d9e2d376bca",
+            "type": "snapshot",
+            "version": "16w50a"
+        },
+        {
+            "releaseTime": "2016-11-14T14:34:40+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c47d4091c4b8622556e33c4ced1fa9b0a0b8edc043a2538c8658e5e483754dd7",
+            "type": "release",
+            "version": "1.11"
+        },
+        {
+            "releaseTime": "2016-11-08T13:42:50+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ef8a1222e94cb7c9ef7675919953b02e92e5d08b24967b7c12027bfe18cf1620",
+            "type": "snapshot",
+            "version": "1.11-pre1"
+        },
+        {
+            "releaseTime": "2016-11-03T14:17:11+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "cf048a970c143ec8f56f69379c23a304736021d9e24ef3cfc212fe7c02bece70",
+            "type": "snapshot",
+            "version": "16w44a"
+        },
+        {
+            "releaseTime": "2016-10-27T09:00:51+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8654ef64abc1d0eecc34c2e4615b0a0ca2d5096eeacc144febad04fec5778cf7",
+            "type": "snapshot",
+            "version": "16w43a"
+        },
+        {
+            "releaseTime": "2016-10-19T11:17:47+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "43b4ed245d84d2dd1d313e7f4fcef523c7e8ca0dbc5c7116e3b58c3a3273df7c",
+            "type": "snapshot",
+            "version": "16w42a"
+        },
+        {
+            "releaseTime": "2016-10-13T14:28:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c7a464cc9f55f3210669900ab4e21ff70907b0364d3942fbe56a168086a1a993",
+            "type": "snapshot",
+            "version": "16w41a"
+        },
+        {
+            "releaseTime": "2016-10-06T13:57:59+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d4a16f9740f20a00d4c93f153155d614a113369088b344bfe92fffe107348607",
+            "type": "snapshot",
+            "version": "16w40a"
+        },
+        {
+            "releaseTime": "2016-09-30T14:11:48+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "087727359082025c8208c71ad5ec08cd4e09bbf633aa93b2a94768ea4c65e1c5",
+            "type": "snapshot",
+            "version": "16w39c"
+        },
+        {
+            "releaseTime": "2016-09-29T14:39:39+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "cd5125058ac40752849b4998416449e9935b342ccb3772e371b7b6f27943b788",
+            "type": "snapshot",
+            "version": "16w39b"
+        },
+        {
+            "releaseTime": "2016-09-28T13:32:06+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "209ce47d212f0023041dd033ebdbec57f1f3b2f24a8887e44aba306f2fb2fbd1",
+            "type": "snapshot",
+            "version": "16w39a"
+        },
+        {
+            "releaseTime": "2016-09-20T12:40:49+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "78447c4d96da5cd4cf0026b8c081a2b2c614d425b0ca8a360bbf7817e1b8791e",
+            "type": "snapshot",
+            "version": "16w38a"
+        },
+        {
+            "releaseTime": "2016-09-08T14:55:10+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b4c70f9910181a0e18e487ca93b8b543c7022c31047d1c5148a7e523e117c08c",
+            "type": "snapshot",
+            "version": "16w36a"
+        },
+        {
+            "releaseTime": "2016-09-01T13:13:38+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d141fcef7f890834d467079b2947ef9de8036ea0a921a157be62a6df50f1ee8b",
+            "type": "snapshot",
+            "version": "16w35a"
+        },
+        {
+            "releaseTime": "2016-08-17T12:48:57+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "1525e650c727045b2efd791c659f6172111caff09442c99ce2e2887d4a1fba47",
+            "type": "snapshot",
+            "version": "16w33a"
+        },
+        {
+            "releaseTime": "2016-08-11T14:34:29+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a84565c3791637336224c842b20f7485673a8e60d3a9e674c78d346e030cc498",
+            "type": "snapshot",
+            "version": "16w32b"
+        },
+        {
+            "releaseTime": "2016-08-10T12:30:10+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "768d3c842975946c1526657d77d696ed998a63140999ce45707010d6a9db8adb",
+            "type": "snapshot",
+            "version": "16w32a"
+        },
+        {
+            "releaseTime": "2016-06-23T09:17:32+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c4aefab0f3eab06c3d71f1dec1f9d0089805c18cc9c4b79334f63c699f8210bd",
+            "type": "release",
+            "version": "1.10.2"
+        },
+        {
+            "releaseTime": "2016-06-22T10:13:22+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "fabb94fde715f97b35dc81ad4697a55b7b9cdf7c782c0bc7bd5d8d559e811ce9",
+            "type": "release",
+            "version": "1.10.1"
+        },
+        {
+            "releaseTime": "2016-06-08T13:06:18+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "494b02342091c822bf11c321381091201f14c59a039307c90e6adb214f0fc059",
+            "type": "release",
+            "version": "1.10"
+        },
+        {
+            "releaseTime": "2016-06-07T14:56:34+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "190a5e9ef2f6caab3f0f9364ef9b981c8ec341052ee8f831359fd66bab01a7ab",
+            "type": "snapshot",
+            "version": "1.10-pre2"
+        },
+        {
+            "releaseTime": "2016-06-02T14:45:16+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "83ea883d1433a96e32a458f1ceb0bb3f12213c4a8aa0ddd2fa42273132384177",
+            "type": "snapshot",
+            "version": "1.10-pre1"
+        },
+        {
+            "releaseTime": "2016-05-26T12:47:22+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d48d9a5d7dff56ca4dd0a092154dc898533d51b049d2b44d14318dc3a0cf39eb",
+            "type": "snapshot",
+            "version": "16w21b"
+        },
+        {
+            "releaseTime": "2016-05-25T13:12:09+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b8ba727e3936bc4dfadbd59978e225a3f45ee36836257f13dc52cb19ae22b30e",
+            "type": "snapshot",
+            "version": "16w21a"
+        },
+        {
+            "releaseTime": "2016-05-18T12:45:14+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d837a2140321b9e624b0d00477b02c5e7557c7a87028ac126907d608e5873577",
+            "type": "snapshot",
+            "version": "16w20a"
+        },
+        {
+            "releaseTime": "2016-05-10T10:17:16+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "19f21dc3d8867947733d7e4667d8eef400e55dcaaeaf0037b6c9eaf621dc8d38",
+            "type": "release",
+            "version": "1.9.4"
+        },
+        {
+            "releaseTime": "2016-05-10T08:33:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0924ffd97ca213e990ab3840f5cdf8e103831c881b9a28cb904eb1ce34e7d3ba",
+            "type": "release",
+            "version": "1.9.3"
+        },
+        {
+            "releaseTime": "2016-05-03T09:28:11+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c7618c0db3397f7d7bbb9f40ddca109efb78fc20455e2aa83be1529b716a3439",
+            "type": "snapshot",
+            "version": "1.9.3-pre3"
+        },
+        {
+            "releaseTime": "2016-04-27T13:33:20+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "038f183bbbc2204d85c7e3b513724862725432f6d8290607effd36c3fc7ca322",
+            "type": "snapshot",
+            "version": "1.9.3-pre2"
+        },
+        {
+            "releaseTime": "2016-04-21T12:41:42+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "610663ee611946235d4aac1a0e541946c2234fd360df68d0f58488fda75c2524",
+            "type": "snapshot",
+            "version": "1.9.3-pre1"
+        },
+        {
+            "releaseTime": "2016-04-13T13:56:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b236c7992b7ff8360bf5eb763a04edb39649b7a165a0cbc2352aa73f6904604a",
+            "type": "snapshot",
+            "version": "16w15b"
+        },
+        {
+            "releaseTime": "2016-04-11T14:38:28+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8640e2b92e89421705a15b2fe41ff608d970d706bef00a8a169eab4f3b26c1d9",
+            "type": "snapshot",
+            "version": "16w15a"
+        },
+        {
+            "releaseTime": "2016-04-07T12:47:51+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d0c2177857f9d1f64a7809063a9b0821ef2c3bec1191c6c774bf44364024a1b6",
+            "type": "snapshot",
+            "version": "16w14a"
+        },
+        {
+            "releaseTime": "2016-03-31T16:18:53+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "63d1efa0572dbbf70e2e1d934ad2bc07e43066ec2ec60f81223d0a983a76d53b",
+            "type": "snapshot",
+            "version": "1.RV-Pre1"
+        },
+        {
+            "releaseTime": "2016-03-30T15:23:55+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3d6d84dfd6fc7b189eac8173d8dfc75f1b3c6587b033f53fd8dfadcd5bcc21fe",
+            "type": "release",
+            "version": "1.9.2"
+        },
+        {
+            "releaseTime": "2016-03-30T13:43:07+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f8afdb516aed78f8760011b3ed99046bbd2f84fc67ab68daa13414dc9a4dbf1a",
+            "type": "release",
+            "version": "1.9.1"
+        },
+        {
+            "releaseTime": "2016-03-11T09:20:36+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a3dfb14f603c25e9121c8a50a8bf1e1fa81051304c923da001a4f5f73b436c75",
+            "type": "snapshot",
+            "version": "1.9.1-pre3"
+        },
+        {
+            "releaseTime": "2016-03-10T15:06:03+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2337b5e0f037e096b71bb61753ce67659bd867ccf469f3b6a7fe5688d04f83a0",
+            "type": "snapshot",
+            "version": "1.9.1-pre2"
+        },
+        {
+            "releaseTime": "2016-03-09T16:27:29+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "34339ad0a5755291b9255090a8781f67c4050eac2f02e1e1760d10b632e7b13c",
+            "type": "snapshot",
+            "version": "1.9.1-pre1"
+        },
+        {
+            "releaseTime": "2016-02-29T13:49:54+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "40479718fa188007b13f855d71aff17f5cceee578f7a1f768f3fea100e2407d3",
+            "type": "release",
+            "version": "1.9"
+        },
+        {
+            "releaseTime": "2016-02-26T15:21:11+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "6627d0b4dd063f8a10bef4a5ef4e6a56087b0c7a450cc309f5d21ae7746eec1a",
+            "type": "snapshot",
+            "version": "1.9-pre4"
+        },
+        {
+            "releaseTime": "2016-02-24T15:52:36+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d11f0e533caf0cf30ec37e11ea76e7a9d49945ad374a49d8e02ae488942b46de",
+            "type": "snapshot",
+            "version": "1.9-pre3"
+        },
+        {
+            "releaseTime": "2016-02-18T17:41:00+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "14f338474922afa6c86bc7bedb9b7ee16e585fd63100a550ae88e3f3919a77c4",
+            "type": "snapshot",
+            "version": "1.9-pre2"
+        },
+        {
+            "releaseTime": "2016-02-17T15:23:19+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b60ae48f30d87c06d3550682971faaff2fd73647746d4f139af1c2344adae98c",
+            "type": "snapshot",
+            "version": "1.9-pre1"
+        },
+        {
+            "releaseTime": "2016-02-16T15:22:39+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b8f706bf4764af87bb2cfd87e02812359802e6b66b0ec18627f13d733fa731bc",
+            "type": "snapshot",
+            "version": "16w07b"
+        },
+        {
+            "releaseTime": "2016-02-15T15:48:46+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "239736a6d397c5573c829fb42af24b8ea719f9fee417c3da034f1363da7975a9",
+            "type": "snapshot",
+            "version": "16w07a"
+        },
+        {
+            "releaseTime": "2016-02-10T15:06:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "62e82499502f5a841cdc5f7b38973b4e9444652974fbdb45d549580e35274563",
+            "type": "snapshot",
+            "version": "16w06a"
+        },
+        {
+            "releaseTime": "2016-02-04T15:28:02+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8f434f7fc4e06dc255732ffa0c02473852839314c79d0f3465ff775179700732",
+            "type": "snapshot",
+            "version": "16w05b"
+        },
+        {
+            "releaseTime": "2016-02-03T15:48:38+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "9262cfbf60683bae9c447344613e225ad7f080e643387ade78b3b5f4cf2dedee",
+            "type": "snapshot",
+            "version": "16w05a"
+        },
+        {
+            "releaseTime": "2016-01-28T15:37:24+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e4ec8c768aadef367de573ea88c816d3d1557c550746419f78d06564a3f174c8",
+            "type": "snapshot",
+            "version": "16w04a"
+        },
+        {
+            "releaseTime": "2016-01-20T14:29:24+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "1530250a655c8af954c53d27acf5574c26f70832659973aed057d41127d108a5",
+            "type": "snapshot",
+            "version": "16w03a"
+        },
+        {
+            "releaseTime": "2016-01-13T15:15:16+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f360d67d1ce088613d12b6cf0c4f2a5fe094b4bfa9331c3dd2c0d72d36c17a2f",
+            "type": "snapshot",
+            "version": "16w02a"
+        },
+        {
+            "releaseTime": "2015-12-17T15:30:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e7c62e3dad3acad5167e6cf95dc8723217113b2629d42dd793ca44e407c30637",
+            "type": "snapshot",
+            "version": "15w51b"
+        },
+        {
+            "releaseTime": "2015-12-17T14:02:37+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7cbd42c4ef13673e70b469894ad200b4b2a0d95ba8299a0bc198f4ae3397a0c4",
+            "type": "snapshot",
+            "version": "15w51a"
+        },
+        {
+            "releaseTime": "2015-12-09T15:35:57+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a40d775aed84a2e156b3a8a48611636375eddd333aba25d709f1d262d8500c46",
+            "type": "snapshot",
+            "version": "15w50a"
+        },
+        {
+            "releaseTime": "2015-12-03T15:23:22+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "716259bc35bb8364fada0d67d954814a019619c7d6b87ccbaad0cdfc0a94d581",
+            "type": "snapshot",
+            "version": "15w49b"
+        },
+        {
+            "releaseTime": "2015-12-03T09:24:39+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8e81e37d725236e775e3a089cda7d9b791cee570e13f4bdd756c5aef2c001d0e",
+            "type": "release",
+            "version": "1.8.9"
+        },
+        {
+            "releaseTime": "2015-12-02T15:09:37+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "fc679bf92e23b4b1f14ff9b08ce60c94ff032defa154a3e538d3c817d510da56",
+            "type": "snapshot",
+            "version": "15w49a"
+        },
+        {
+            "releaseTime": "2015-11-20T12:46:56+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "27f90111df117a9d98ec4321aa5adfb5cd680a565691200dc3ef6eceba3231ae",
+            "type": "snapshot",
+            "version": "15w47c"
+        },
+        {
+            "releaseTime": "2015-11-19T14:48:03+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "eceb96109be1e6bae6470efad589fae12c1406fd244224a2a94669242f2eef41",
+            "type": "snapshot",
+            "version": "15w47b"
+        },
+        {
+            "releaseTime": "2015-11-18T15:53:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b6be1322ff8a19cb56e8b7917889f27ac91d2e358818ecc0133b98d30f28b1fb",
+            "type": "snapshot",
+            "version": "15w47a"
+        },
+        {
+            "releaseTime": "2015-11-12T12:11:47+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c79ea2a73b9f9cf294d571f7c636493799eea2efc9b9f402bae15b8feb528ae0",
+            "type": "snapshot",
+            "version": "15w46a"
+        },
+        {
+            "releaseTime": "2015-11-05T13:04:07+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e52dbb295a01b434b2ebd4d5ce696d88b7d83b268a58ae5bbb5a69d234cea5ba",
+            "type": "snapshot",
+            "version": "15w45a"
+        },
+        {
+            "releaseTime": "2015-10-30T11:23:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3952c5defef4208fe0fe6b540910e69826881a058dd9dc641fe8cd546597b022",
+            "type": "snapshot",
+            "version": "15w44b"
+        },
+        {
+            "releaseTime": "2015-10-28T15:09:36+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c63e559fc8f13d49462948489e50e48d11a7140873859dac4cb0a8281e2757fa",
+            "type": "snapshot",
+            "version": "15w44a"
+        },
+        {
+            "releaseTime": "2015-10-23T15:35:55+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "6fdd356ff6bc84d8b03bfa31515a1704e654f3244141243c35dd813a1d6fa1b6",
+            "type": "snapshot",
+            "version": "15w43c"
+        },
+        {
+            "releaseTime": "2015-10-22T14:11:58+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "160a5c9d1f7aeb7ce4ed2ce7cd6e01cd7bbafc34783cc70aa1a2af9cc4490bd4",
+            "type": "snapshot",
+            "version": "15w43b"
+        },
+        {
+            "releaseTime": "2015-10-21T15:28:52+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e1a1903f045636ac0e4336cbd707325bb8bd64a50946068088c64e911f06835c",
+            "type": "snapshot",
+            "version": "15w43a"
+        },
+        {
+            "releaseTime": "2015-10-14T13:25:14+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "38e1488e07f9426ee1294da1e2624fbe2417065491e593620e185bc1747165b0",
+            "type": "snapshot",
+            "version": "15w42a"
+        },
+        {
+            "releaseTime": "2015-10-07T14:07:26+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "52f05eb98d7d6240cc97f0b1b1d3d8370090de73089e7bd6612a91a0f9213610",
+            "type": "snapshot",
+            "version": "15w41b"
+        },
+        {
+            "releaseTime": "2015-10-07T13:19:53+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3129db56764e9e8f9ea2d689b201fd1678822325b14345c3bb572984844d52aa",
+            "type": "snapshot",
+            "version": "15w41a"
+        },
+        {
+            "releaseTime": "2015-09-30T14:13:54+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "71a8b9f7f218872f723f52b372a736c203f55475fbce31a19ff586a89873c92f",
+            "type": "snapshot",
+            "version": "15w40b"
+        },
+        {
+            "releaseTime": "2015-09-30T13:13:54+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "1babc8b226055ff22c2912d53f8b7870d1e55439b4874f971550da8606788813",
+            "type": "snapshot",
+            "version": "15w40a"
+        },
+        {
+            "releaseTime": "2015-09-23T13:13:54+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "eed0081b694487dabf9c74189b7e88acdbc613a22adf5c61577655ce2bcdd3dd",
+            "type": "snapshot",
+            "version": "15w39c"
+        },
+        {
+            "releaseTime": "2015-09-21T15:09:52+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2cd56d513aa96d3130d47ec5d092b07eb34b62ccc970f6286415110da84abcf4",
+            "type": "snapshot",
+            "version": "15w39b"
+        },
+        {
+            "releaseTime": "2015-09-21T13:16:32+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4064abb3084468c6d1e8f660783ca84cb345b74463b92aa2d4f3672ebf53112c",
+            "type": "snapshot",
+            "version": "15w39a"
+        },
+        {
+            "releaseTime": "2015-09-17T14:22:31+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "74d939ffb3be0070380999f77a32a7b066f3f21be96afda54ef1fa5d383e70d0",
+            "type": "snapshot",
+            "version": "15w38b"
+        },
+        {
+            "releaseTime": "2015-09-16T14:22:31+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e8019fa586efe67f7dfea123ce7b1a593a4d04c655100123f88e265624a1807a",
+            "type": "snapshot",
+            "version": "15w38a"
+        },
+        {
+            "releaseTime": "2015-09-10T14:22:31+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c4a2cdf0204c1cc29eff6e7d2811d5c0898b5289fb8660575e713076f6d705d3",
+            "type": "snapshot",
+            "version": "15w37a"
+        },
+        {
+            "releaseTime": "2015-09-04T14:22:31+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ab885f10aab70e6233fa6f202fc25cafde2b566e41d696ef2df5d4d9e49782b2",
+            "type": "snapshot",
+            "version": "15w36d"
+        },
+        {
+            "releaseTime": "2015-09-02T16:07:22+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "670e006001df848e35c919f3492531bfeb262f09f31f0be4a94cfb26be1eb020",
+            "type": "snapshot",
+            "version": "15w36c"
+        },
+        {
+            "releaseTime": "2015-09-02T15:36:25+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "19d8ea34780589df465ad32db4ee2c3f8bf6e70a45dfe57799ccdcbf386b5d1a",
+            "type": "snapshot",
+            "version": "15w36b"
+        },
+        {
+            "releaseTime": "2015-09-02T14:46:40+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b8ca3d7c934f8312ff7c0418e18a0133b0fd25ea2c0f51177171cc58a6ea12f4",
+            "type": "snapshot",
+            "version": "15w36a"
+        },
+        {
+            "releaseTime": "2015-08-28T18:14:02+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b88e98f3ca1ab6671bc3c2e65df1dab293a67da4d05268bbc56c0ea2689d032e",
+            "type": "snapshot",
+            "version": "15w35e"
+        },
+        {
+            "releaseTime": "2015-08-28T16:25:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0490009b46cd55ccef95251d7f33ad33cebde67a58c8abde529a5479de6784b7",
+            "type": "snapshot",
+            "version": "15w35d"
+        },
+        {
+            "releaseTime": "2015-08-28T11:21:00+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0cd360470b25f8c0cff828d02f3e84378453b58b235658f244a8baca457583f1",
+            "type": "snapshot",
+            "version": "15w35c"
+        },
+        {
+            "releaseTime": "2015-08-24T15:39:18+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d3db165786e2bd6a2766df3d89d136e3ee4f7d1cee9dab39cdb878ff9589eace",
+            "type": "snapshot",
+            "version": "15w35b"
+        },
+        {
+            "releaseTime": "2015-08-24T14:19:31+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3bdf77d07a33fa6a952867a4117114947e58b17b767cbcdd53414a31b978659f",
+            "type": "snapshot",
+            "version": "15w35a"
+        },
+        {
+            "releaseTime": "2015-08-21T15:27:55+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "1e9d2a37511127affd2db3d589ae39a2240ca5f252c61e00831299b6ade3a6ed",
+            "type": "snapshot",
+            "version": "15w34d"
+        },
+        {
+            "releaseTime": "2015-08-21T12:45:20+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ef918965bd1888fc51a62fb896b7bd32c33556d1b81e5f84b349b64a7dde668e",
+            "type": "snapshot",
+            "version": "15w34c"
+        },
+        {
+            "releaseTime": "2015-08-20T14:00:03+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "fa37ac15e997af8d264d2f1016edfbd3a65c9bfdd9f5405de3277baf9bb2bb1d",
+            "type": "snapshot",
+            "version": "15w34b"
+        },
+        {
+            "releaseTime": "2015-08-19T12:56:01+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d532ab8a7ea06462799b59cb530d1912f235e55e1b1414fb0a5d1332d825bc1e",
+            "type": "snapshot",
+            "version": "15w34a"
+        },
+        {
+            "releaseTime": "2015-08-14T13:10:46+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2f1b167f7d86a19cc6a563a79935752648120c71dc2635603be71e7a872a00f6",
+            "type": "snapshot",
+            "version": "15w33c"
+        },
+        {
+            "releaseTime": "2015-08-12T15:29:11+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ba29eddbf56f9aefb13d037383a012be7a4bd30729f2dcbcc9f05fe8769517c4",
+            "type": "snapshot",
+            "version": "15w33b"
+        },
+        {
+            "releaseTime": "2015-08-12T14:05:07+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "24db1986be05a02232adcba3f8cb359efba7a6fa58393b57ed792ffcbbb283c4",
+            "type": "snapshot",
+            "version": "15w33a"
+        },
+        {
+            "releaseTime": "2015-08-07T14:08:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "68acc3bacb1fae64220f3d8dfdb47124a4b1b9c5e4eff13280ef5f4c16b7b29b",
+            "type": "snapshot",
+            "version": "15w32c"
+        },
+        {
+            "releaseTime": "2015-08-06T13:51:47+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "725a27a073c1b68fcd0be857492998fde3a3f0b8160fb288e4648931163c7732",
+            "type": "snapshot",
+            "version": "15w32b"
+        },
+        {
+            "releaseTime": "2015-08-05T12:22:42+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "faba987650b6931643aa95b78a260624aaf1b0de0043c97974b751137deeafb1",
+            "type": "snapshot",
+            "version": "15w32a"
+        },
+        {
+            "releaseTime": "2015-07-31T13:45:08+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "bf4ed644009de848ea78f6ba56d6bfe82bc2a55daf434b27dbe5b9a5c97a7314",
+            "type": "snapshot",
+            "version": "15w31c"
+        },
+        {
+            "releaseTime": "2015-07-30T13:38:32+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "898040f34c7cd608cf3a398191b168cdf955a30c6443fae163dee964db8c546c",
+            "type": "snapshot",
+            "version": "15w31b"
+        },
+        {
+            "releaseTime": "2015-07-29T13:24:33+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0e597a36f4becd02324087473896220338e53766ad953489a9a04169a3721e8f",
+            "type": "snapshot",
+            "version": "15w31a"
+        },
+        {
+            "releaseTime": "2015-07-27T10:31:28+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8015329f0271a5fc93fd8a9b28857fa8c4f753005e7be9b76d0b181e8238a8ec",
+            "type": "release",
+            "version": "1.8.8"
+        },
+        {
+            "releaseTime": "2015-06-05T10:10:44+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "1b4bef2beb98b0d5d97601cc795b18a5c2a17317bfedca41274973b5e3d43d4d",
+            "type": "release",
+            "version": "1.8.7"
+        },
+        {
+            "releaseTime": "2015-05-25T10:31:19+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b222542c64d99d77db5c6b79ea2763bd06a3e2157bbff95f88f8d598eb5f5df7",
+            "type": "release",
+            "version": "1.8.6"
+        },
+        {
+            "releaseTime": "2015-05-22T11:15:28+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "59a30df1f33a01cd1c621479733cc98753bc94ec5467cde4cbd36fc0c97834fa",
+            "type": "release",
+            "version": "1.8.5"
+        },
+        {
+            "releaseTime": "2015-04-17T11:37:50+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "75113cd96c8580abd1e93966e29a142aef5c43e5e06a444b0fe38bafc8eff325",
+            "type": "release",
+            "version": "1.8.4"
+        },
+        {
+            "releaseTime": "2015-04-01T07:08:00+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "bb0cd9d80a821affccd05c69277fc0581f1931235441151f72daa013ae46895d",
+            "type": "snapshot",
+            "version": "15w14a"
+        },
+        {
+            "releaseTime": "2015-02-20T14:00:09+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a19efc4a47f1b7b6455d94b0c9b6c547a551108453b79b97aed3020c2cd3bd78",
+            "type": "release",
+            "version": "1.8.3"
+        },
+        {
+            "releaseTime": "2015-02-19T15:47:29+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4ac743021c9156a52cd8f8c400fff4ccec8cbc3dc3c6029f70ec34b615fad2a5",
+            "type": "release",
+            "version": "1.8.2"
+        },
+        {
+            "releaseTime": "2015-02-16T13:01:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.4-nightly-20150209",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "06bb656046b9abbc3005d7815693e4b03a4f8d0076aca23daa4bea182a6a8836",
+            "type": "snapshot",
+            "version": "1.8.2-pre7"
+        },
+        {
+            "releaseTime": "2015-01-30T11:58:24+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.3",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "80343e96fdba6ef07a3422d469ecf3b6f53511efbed907a3c5ca81bcbff8126b",
+            "type": "snapshot",
+            "version": "1.8.2-pre6"
+        },
+        {
+            "releaseTime": "2015-01-26T15:03:24+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.3",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "211ac699bf8222bd3e9da2f8dcf4c86ac9fdff0908cbf88e512042b9442c1cfd",
+            "type": "snapshot",
+            "version": "1.8.2-pre5"
+        },
+        {
+            "releaseTime": "2015-01-16T14:19:59+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8717b0907778156ae58bcd7c4f1d2a414084ae23ac7064677171c5ce0ceba0af",
+            "type": "snapshot",
+            "version": "1.8.2-pre4"
+        },
+        {
+            "releaseTime": "2015-01-15T16:44:33+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "34b49ea1925d9a0467c10280fc476c14d752c70876b8e0f80269bdb62ac64ea0",
+            "type": "snapshot",
+            "version": "1.8.2-pre3"
+        },
+        {
+            "releaseTime": "2015-01-15T15:07:31+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4a4771c66a3c560570a8eec82de8fd9d048c6ab12b7965302f13e4b91f8182bc",
+            "type": "snapshot",
+            "version": "1.8.2-pre2"
+        },
+        {
+            "releaseTime": "2014-12-18T11:29:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7128d4a82355827c625fcfcc76d3cc723ddd2d41552b4589358c6dd2d7dbc508",
+            "type": "snapshot",
+            "version": "1.8.2-pre1"
+        },
+        {
+            "releaseTime": "2014-11-24T14:13:31+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b7b9a9aff8651474cc58c2f7626551654cf31ed11438033494645a677c62b6e2",
+            "type": "release",
+            "version": "1.8.1"
+        },
+        {
+            "releaseTime": "2014-11-19T14:30:48+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "04dd1b2ee98093ad196feebd3ff636a9eebce6f34b04b932ce363d1ec5294b73",
+            "type": "snapshot",
+            "version": "1.8.1-pre5"
+        },
+        {
+            "releaseTime": "2014-11-06T14:10:50+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "12f8e772fe99f75eaea9980a387d81276a26389c691d34603a8f9748509562f6",
+            "type": "snapshot",
+            "version": "1.8.1-pre4"
+        },
+        {
+            "releaseTime": "2014-10-23T12:59:42+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "da1956c7ea0ac864cfbe0f856e9114bc6ccf3f70fdccf08ec2f16b147a09c0e0",
+            "type": "snapshot",
+            "version": "1.8.1-pre3"
+        },
+        {
+            "releaseTime": "2014-10-16T14:19:27+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e5c75a7a87a897969f1d70e3f31067706cab2c9efbbbac6bbf6559f109ad2bbb",
+            "type": "snapshot",
+            "version": "1.8.1-pre2"
+        },
+        {
+            "releaseTime": "2014-10-15T13:25:11+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "9b78e25513a60e2c05abc861def15f4d8b67089c7179f7e04e9e1d4adf5c5d24",
+            "type": "snapshot",
+            "version": "1.8.1-pre1"
+        },
+        {
+            "releaseTime": "2014-09-02T08:24:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2ead6a72ab1dbf2ca3ad93e7e0a45c631ce71d065c46b2ecdc924aa04d7024be",
+            "type": "release",
+            "version": "1.8"
+        },
+        {
+            "releaseTime": "2014-08-28T09:40:54+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "723bf0e8ecb991a5b9fdca91cebb0ded499bce3068e887f71bab09f09e90b75e",
+            "type": "snapshot",
+            "version": "1.8-pre3"
+        },
+        {
+            "releaseTime": "2014-08-25T14:52:18+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "35d824881584cb082fa4ae9d5b457cae3578ff6e71e0db116ac7d676a012256e",
+            "type": "snapshot",
+            "version": "1.8-pre2"
+        },
+        {
+            "releaseTime": "2014-08-21T13:56:26+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b4948c38aab8698b88f8ae5ba94e7fec10b14b613a33cf97d81c60486ba12d36",
+            "type": "snapshot",
+            "version": "1.8-pre1"
+        },
+        {
+            "releaseTime": "2014-08-20T12:46:59+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "df2f462f08fcd3b90b681bc88b050f090893663d0274b7c883770264863555f1",
+            "type": "snapshot",
+            "version": "14w34d"
+        },
+        {
+            "releaseTime": "2014-08-19T15:31:24+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "10d17ce114b20406dd4a86c6e246e84996eb550589f947c2066c3b00d752d4ff",
+            "type": "snapshot",
+            "version": "14w34c"
+        },
+        {
+            "releaseTime": "2014-08-18T15:14:28+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3122294ddc5ee1bba9bf545e272254856b9ebea612d8826eff133e189f23e379",
+            "type": "snapshot",
+            "version": "14w34b"
+        },
+        {
+            "releaseTime": "2014-08-18T14:14:11+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "5a4a9d59d702d0fa8ace74e8694d19f3a95b8d0add421ea11ecd0d852094963f",
+            "type": "snapshot",
+            "version": "14w34a"
+        },
+        {
+            "releaseTime": "2014-08-15T18:00:26+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d2e16662a84d1b31945a1b2b9cafbe789a7c8e4dbd61531b7b7ee199a99fcedc",
+            "type": "snapshot",
+            "version": "14w33c"
+        },
+        {
+            "releaseTime": "2014-08-15T16:23:51+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "756d79ab9d7a91fb00c28fe85e0018d7c025ea4b237ed5af41466bb1e604645b",
+            "type": "snapshot",
+            "version": "14w33b"
+        },
+        {
+            "releaseTime": "2014-08-13T15:08:14+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "25410cf22ffd729dc160e124a4212a50c8ae8c739851cbb91dc5b91eb464d8ab",
+            "type": "snapshot",
+            "version": "14w33a"
+        },
+        {
+            "releaseTime": "2014-08-08T15:13:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "60a057b6525a0251323f5d057fd9fd64ff5a567cce65839fe2e135f97250aede",
+            "type": "snapshot",
+            "version": "14w32d"
+        },
+        {
+            "releaseTime": "2014-08-08T14:11:20+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c8a28e53b291cd11a7a95c87ca15782048d5a7b86647200b55ccb4a9236a80e2",
+            "type": "snapshot",
+            "version": "14w32c"
+        },
+        {
+            "releaseTime": "2014-08-07T14:45:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "73aea31c66b6074cc2ca0db91bc2c9c68eba171bee22cb601e5a2ca723dabb1f",
+            "type": "snapshot",
+            "version": "14w32b"
+        },
+        {
+            "releaseTime": "2014-08-06T14:01:16+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "6b154366b8411237ff599b26adb327d16a0c31464e76cef7f807c01447ec42c3",
+            "type": "snapshot",
+            "version": "14w32a"
+        },
+        {
+            "releaseTime": "2014-07-30T15:38:05+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "66ca3e87a9c427fc9bc8397955c2fb2dc773e525a620aaad80dc135b01a5d051",
+            "type": "snapshot",
+            "version": "14w31a"
+        },
+        {
+            "releaseTime": "2014-07-24T14:39:09+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e7c2121774375b21078eed513db191e30d36ae49e091e4e71f74b8f851bfa4e4",
+            "type": "snapshot",
+            "version": "14w30c"
+        },
+        {
+            "releaseTime": "2014-07-23T15:03:03+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7162cd6191d1eadadc5361cd7911648793bb865d5d7b7e030b1eab85668fe583",
+            "type": "snapshot",
+            "version": "14w30b"
+        },
+        {
+            "releaseTime": "2014-07-23T13:15:42+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ff5a4fc2042b1cf2e6b2b20d44696e08920ab90e89a3de6fdc2aca74ac17a62a",
+            "type": "snapshot",
+            "version": "14w30a"
+        },
+        {
+            "releaseTime": "2014-07-16T17:27:40+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "5ccc8c3122d97a08f891111407e9d6305831097597dcf67b8dac472f53ba2d39",
+            "type": "snapshot",
+            "version": "14w29b"
+        },
+        {
+            "releaseTime": "2014-07-16T15:18:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a063913c2ae64188a7c7be52851870176c52bab1f24d6e0fe7bd97e3939f648c",
+            "type": "snapshot",
+            "version": "14w29a"
+        },
+        {
+            "releaseTime": "2014-07-10T14:28:48+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2e50f4cbd4455c9336d33cce7dd8833e0fdeac28921daa4ef0d0038a08d6b4e0",
+            "type": "snapshot",
+            "version": "14w28b"
+        },
+        {
+            "releaseTime": "2014-07-09T15:42:36+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d3af69579cd458b601ec250d25110aafece42dd454cbe0e862e365424827cbfe",
+            "type": "snapshot",
+            "version": "14w28a"
+        },
+        {
+            "releaseTime": "2014-07-02T18:34:56+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "043d9d760f86dd5967aabfb2008834cd2353e3dc7786c5ca88488fca619a2c39",
+            "type": "snapshot",
+            "version": "14w27b"
+        },
+        {
+            "releaseTime": "2014-07-02T16:07:20+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d2c72f26cf3588c248e02b8e284b094a4c91bbc227c7a548d2171b607cd6da97",
+            "type": "snapshot",
+            "version": "14w27a"
+        },
+        {
+            "releaseTime": "2014-06-26T15:05:03+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4e5a67d899abde0e8d8e33e7d32e6260720d997dacccb976fbb2718bccd5a9e0",
+            "type": "snapshot",
+            "version": "14w26c"
+        },
+        {
+            "releaseTime": "2014-06-25T15:08:39+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ba2666bf03b218fc6d25c261722992ecee922627613ac39e8f1b4fa1ce720eb4",
+            "type": "snapshot",
+            "version": "14w26b"
+        },
+        {
+            "releaseTime": "2014-06-25T13:59:27+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "151bb750305362fe743427aef65dc5387fa615d8d3914068f0fe8bbe08ef5817",
+            "type": "snapshot",
+            "version": "14w26a"
+        },
+        {
+            "releaseTime": "2014-06-19T12:29:48+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "db7dad9b63271d9f2f0765496844af6624a828a0de2776c6b2b5fc108f703b7a",
+            "type": "snapshot",
+            "version": "14w25b"
+        },
+        {
+            "releaseTime": "2014-06-18T15:52:28+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "97c6445e01e5e1fe2a97f2a8243cc32fd0599c413190f4df8975c5b4e3824fcf",
+            "type": "snapshot",
+            "version": "14w25a"
+        },
+        {
+            "releaseTime": "2014-05-22T15:17:55+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "83f40a92a5bcafe871ec8ea3d5ecc44accfb5b723739cc5fc17a9433c42df73a",
+            "type": "snapshot",
+            "version": "14w21b"
+        },
+        {
+            "releaseTime": "2014-05-22T14:44:33+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f39c4ab1921de3321f43cc8016295533fe0c8d3eb95f0db884991abc4fcb18dc",
+            "type": "snapshot",
+            "version": "14w21a"
+        },
+        {
+            "releaseTime": "2014-05-15T16:47:21+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "17cf33d5cfd53e1e8e8529faf0343bdcba4a99a394b986802ab5b008590753c8",
+            "type": "snapshot",
+            "version": "14w20b"
+        },
+        {
+            "releaseTime": "2014-05-15T14:01:20+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "6cae8bfb20e01c107904241c839da7bc8f4d0b89c4b9db8aafd441ad9fe186c8",
+            "type": "snapshot",
+            "version": "14w20a"
+        },
+        {
+            "releaseTime": "2014-05-14T17:29:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "eaa6a9256d89fa4ad332f0b3661e849d8dcbfef07ec6f0562a7e2d9ac174c509",
+            "type": "release",
+            "version": "1.7.10"
+        },
+        {
+            "releaseTime": "2014-05-14T16:29:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0e5a05588adc952d05016f28051da1b902dc7e2c052598e94c98e4a944dcbda1",
+            "type": "snapshot",
+            "version": "1.7.10-pre4"
+        },
+        {
+            "releaseTime": "2014-05-14T15:29:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "69f752f8da3aae8b67a99320ee5ed6b9c6156afe780cac8bee73f0d84066be7c",
+            "type": "snapshot",
+            "version": "1.7.10-pre3"
+        },
+        {
+            "releaseTime": "2014-05-14T14:29:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0474128a3d75b26691aa8caf49f23339137d6f0c70272bd2bda06cdcc755c5a2",
+            "type": "snapshot",
+            "version": "1.7.10-pre2"
+        },
+        {
+            "releaseTime": "2014-05-14T13:29:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "07fa0c9c009f281dd2373175f7018e577a467d2c423c561f02085b16c639c762",
+            "type": "snapshot",
+            "version": "1.7.10-pre1"
+        },
+        {
+            "releaseTime": "2014-05-08T14:24:19+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7737104dd9d1163d8c236f34c52d290a78b25d3fd5b15071a356617e127485a6",
+            "type": "snapshot",
+            "version": "14w19a"
+        },
+        {
+            "releaseTime": "2014-05-02T11:38:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "9c5240cba898882f4e93801c32b51f194d12b7c909de94ae9fad4bce860708df",
+            "type": "snapshot",
+            "version": "14w18b"
+        },
+        {
+            "releaseTime": "2014-04-30T10:25:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "5896f774f4e89c29b8242ce40c45b1b8f990184db8676a5bcd25edc6393531e5",
+            "type": "snapshot",
+            "version": "14w18a"
+        },
+        {
+            "releaseTime": "2014-04-24T15:44:49+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b8ac6f3a7dac7ca3b12d26966796a67d1cd5a7f239d0bb669e0e2c35fa1fcac7",
+            "type": "snapshot",
+            "version": "14w17a"
+        },
+        {
+            "releaseTime": "2014-04-14T14:36:19+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "63ecfd3c7ff894bed33b1efbfd60316d1e98686f53bf3e997d69c377f6c84120",
+            "type": "snapshot",
+            "version": "14w11b"
+        },
+        {
+            "releaseTime": "2014-04-14T13:29:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "22a4a9905d679a4657c69a6def068f22f098068f3d7656fd5f1be7349ee7d5b8",
+            "type": "release",
+            "version": "1.7.9"
+        },
+        {
+            "releaseTime": "2014-04-09T07:58:16+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2e3069060c8a1e3b629758d28adfa289b2420021c4fe550713589db8480cb567",
+            "type": "release",
+            "version": "1.7.8"
+        },
+        {
+            "releaseTime": "2014-04-09T07:52:16+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "553b896c91ec218cb2633c32a5152351590925cfe9cf0967a1b0822af8e26083",
+            "type": "release",
+            "version": "1.7.7"
+        },
+        {
+            "releaseTime": "2014-04-09T07:52:06+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "79b6daf3c9cb2c711aebd083984e67338f574c9016c0b96435048d54894fd3fa",
+            "type": "release",
+            "version": "1.7.6"
+        },
+        {
+            "releaseTime": "2014-03-13T14:02:50+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "aca9d5d061ddaf1446e7ea7d061a4d82f18265f4ca665119af5aabcf764a1be9",
+            "type": "snapshot",
+            "version": "14w11a"
+        },
+        {
+            "releaseTime": "2014-03-08T11:00:01+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2a0a49c397e2480cc5cf368a3172644c2f680197f648632bf03cc1bdb5128d6b",
+            "type": "snapshot",
+            "version": "1.7.6-pre2"
+        },
+        {
+            "releaseTime": "2014-03-08T11:00:00+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "894378300065850effaf551de8d1e403cd2dd7baf53ced13cc5fa81a93d6781e",
+            "type": "snapshot",
+            "version": "1.7.6-pre1"
+        },
+        {
+            "releaseTime": "2014-03-07T13:49:55+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "fd19b03c5eac49aa56e8982251ef4f5817f4e0d32c589daf33e075e3a8d7873e",
+            "type": "snapshot",
+            "version": "14w10c"
+        },
+        {
+            "releaseTime": "2014-03-06T16:25:39+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "cfbcf7b688440d37a0c437d5269d66e89b3dcf0e4e04d10d077a09210dbbb858",
+            "type": "snapshot",
+            "version": "14w10b"
+        },
+        {
+            "releaseTime": "2014-03-06T14:23:04+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "00560ce2b5380c31272d628ad50648965df43ab62d0e16d170fad84e169d2502",
+            "type": "snapshot",
+            "version": "14w10a"
+        },
+        {
+            "releaseTime": "2014-02-26T17:00:00+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a07059a8c7a9ccaa0eadb35e3038ca7687a8e7ab8edd3009734ca20556613529",
+            "type": "snapshot",
+            "version": "14w08a"
+        },
+        {
+            "releaseTime": "2014-02-26T09:22:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "5087d2b94d0dc7004d663c2be5436875c1525abcdbdff51bd8623c63b3eec418",
+            "type": "release",
+            "version": "1.7.5"
+        },
+        {
+            "releaseTime": "2014-02-14T11:05:07+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "324b3fe96fb729a6140dd261f11954632c46e0aa9cd7f1172c04c90ac37b10b4",
+            "type": "snapshot",
+            "version": "14w07a"
+        },
+        {
+            "releaseTime": "2014-02-06T17:30:42+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b07436dd14a80280427975a9e15013fae354a6906acafc8b934d81b646b924a3",
+            "type": "snapshot",
+            "version": "14w06b"
+        },
+        {
+            "releaseTime": "2014-02-06T14:30:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "75f3a092d62419cd2557553580aa1ec9752a52b8cb7a40bfbf87aa424b39fd82",
+            "type": "snapshot",
+            "version": "14w06a"
+        },
+        {
+            "releaseTime": "2014-01-31T14:05:50+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a23268ba334d9dae15792ecba8b9e2e1b3b36a504681ac818db7ca5353c453af",
+            "type": "snapshot",
+            "version": "14w05b"
+        },
+        {
+            "releaseTime": "2014-01-30T15:32:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3173c9dafa89f90c85c530eb3d9104276c83b99cf5ef46e30a64cda78ad1c4a8",
+            "type": "snapshot",
+            "version": "14w05a"
+        },
+        {
+            "releaseTime": "2014-01-24T15:48:46+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a8d7925f41f1e2333f9e393c70329b7bea9e3f12acaeb049fd011d6df05a629b",
+            "type": "snapshot",
+            "version": "14w04b"
+        },
+        {
+            "releaseTime": "2014-01-23T15:26:13+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "48a87faac1bbb70a587110d2fdcaa8f02e5cfc55f141bb5396a48929af82ffc1",
+            "type": "snapshot",
+            "version": "14w04a"
+        },
+        {
+            "releaseTime": "2014-01-16T16:36:19+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "bc1a79dd115904c35c8ab91b243c67cb433922b3881a990d84a8dd5bda8ea6d0",
+            "type": "snapshot",
+            "version": "14w03b"
+        },
+        {
+            "releaseTime": "2014-01-16T14:45:13+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "34e0cb2b4c2234f205cb208781a6f63725285fe3812e780fc7cde6ca014bb28e",
+            "type": "snapshot",
+            "version": "14w03a"
+        },
+        {
+            "releaseTime": "2014-01-10T15:42:36+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "46884e204577e41d05ba7c80b719f2e2202b2399e3dc9717146459aacae01f32",
+            "type": "snapshot",
+            "version": "14w02c"
+        },
+        {
+            "releaseTime": "2014-01-09T15:45:55+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c213341bb2336334d028a92e0923f498296adc82c6ce4dae1a0eac4bc8a7b47a",
+            "type": "snapshot",
+            "version": "14w02b"
+        },
+        {
+            "releaseTime": "2014-01-09T14:44:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "9ffa63b945426e0d95e22d340781a0160f7c64d15acd5406b6c0e752cae3a522",
+            "type": "snapshot",
+            "version": "14w02a"
+        },
+        {
+            "releaseTime": "2013-12-09T12:28:10+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "76ebb09e7a5450e1318582aaa42ae5be12a628be99950668630f104b01c9fad1",
+            "type": "release",
+            "version": "1.7.4"
+        },
+        {
+            "releaseTime": "2013-12-06T13:55:34+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "6c879ec1cdadb1303a21ecd75996cd2646a4efd3ae0121fe0cc27d5faab5f758",
+            "type": "release",
+            "version": "1.7.3"
+        },
+        {
+            "releaseTime": "2013-12-05T14:34:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b9345a5fb83e710f58e31dfb10ac2efb9e6c532cbb4e16a1f996a97860e0cc17",
+            "type": "snapshot",
+            "version": "13w49a"
+        },
+        {
+            "releaseTime": "2013-11-26T18:36:08+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "6fa4339df05eaadc7ee128dbb25afa5ff87298ad1764111463918ac8e34f9af9",
+            "type": "snapshot",
+            "version": "13w48b"
+        },
+        {
+            "releaseTime": "2013-11-25T16:53:39+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "21d502fd19622b3b41e043e4e8e39c40901d3b65b0c0e2e6613d2b4ad41efca7",
+            "type": "snapshot",
+            "version": "13w48a"
+        },
+        {
+            "releaseTime": "2013-11-22T15:16:38+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0fe75b004b7d764970eee2e5a9e97e7ce0c72612561a234723ede9d8325f50f1",
+            "type": "snapshot",
+            "version": "13w47e"
+        },
+        {
+            "releaseTime": "2013-11-22T13:51:15+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "bbecebae99f273047a58cc7bbdfc1d696d3ff0a95b26d15787ba154e99989027",
+            "type": "snapshot",
+            "version": "13w47d"
+        },
+        {
+            "releaseTime": "2013-11-21T17:10:33+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "032cb7e5a0a4b208fc36f69c28a9ea6f605f0ba654caf6e41c30b0049bbfc1f9",
+            "type": "snapshot",
+            "version": "13w47c"
+        },
+        {
+            "releaseTime": "2013-11-21T16:57:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3076660a8e622bd8fd1dfa911b69e6768d5184b0349824a46dddd92efe99c707",
+            "type": "snapshot",
+            "version": "13w47b"
+        },
+        {
+            "releaseTime": "2013-11-21T15:59:58+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.1-nightly-20131120",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4b69d03c0d5191194595b10a4e357dd069e6e306f47baa43ce28673ec8346353",
+            "type": "snapshot",
+            "version": "13w47a"
+        },
+        {
+            "releaseTime": "2013-10-25T13:00:00+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "cf8ae6e75ecdf39d154c3d555ec1f06c8eacb457ef947ba70223f0caef2811ee",
+            "type": "release",
+            "version": "1.7.2"
+        },
+        {
+            "releaseTime": "2013-10-23T12:01:07+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8e385ef8c2784582e2dcd012bd5277fbcfe0b9f2ac5dbd4adb747f204aab7311",
+            "type": "snapshot",
+            "version": "1.7.1"
+        },
+        {
+            "releaseTime": "2013-10-22T15:04:05+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8fb95a4fc706f02770c6727a3c613bdd16cc94797b7d5e49460bfed5fbc9fed7",
+            "type": "snapshot",
+            "version": "1.7"
+        },
+        {
+            "releaseTime": "2013-10-21T16:34:47+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "37105bc08279debea554e8f2043fda96a267bea725e6fa95face53321b1b3e70",
+            "type": "snapshot",
+            "version": "13w43a"
+        },
+        {
+            "releaseTime": "2013-10-18T16:34:08+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0bb13c492d172078dc3031473f6c447f0b6a5eb898798396f527e07b32637d1a",
+            "type": "snapshot",
+            "version": "13w42b"
+        },
+        {
+            "releaseTime": "2013-10-17T18:33:05+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "236d3f27980ad435099358be0fde3af70359df3612fae89100e770d36ffd2e77",
+            "type": "snapshot",
+            "version": "13w42a"
+        },
+        {
+            "releaseTime": "2013-10-11T15:09:17+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f4b6427c2834cb75f72c0bebb36b19457f8106e3c4d11642aeb65466ec580a68",
+            "type": "snapshot",
+            "version": "13w41b"
+        },
+        {
+            "releaseTime": "2013-10-10T14:21:43+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "5d71f0da5a5e6611e6c777222baa7efaa4d3bf19ddc5dca1c57877f41d984b49",
+            "type": "snapshot",
+            "version": "13w41a"
+        },
+        {
+            "releaseTime": "2013-09-27T12:15:58+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "fd714331d1d0e25793b8f196146a38d221d4cd8e22ed7a37a5d2052ba9f04d5b",
+            "type": "snapshot",
+            "version": "13w39b"
+        },
+        {
+            "releaseTime": "2013-09-26T15:11:19+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4b1f6340a1eefcafaad90453842cd1a0cd140863d9c9d2567262261a75bff5a3",
+            "type": "snapshot",
+            "version": "13w39a"
+        },
+        {
+            "releaseTime": "2013-09-20T15:11:34+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "9318ceaa039751193d7f1d3fba6fd0ab68acb32d5ceb982a95f0b2defc35f396",
+            "type": "snapshot",
+            "version": "13w38c"
+        },
+        {
+            "releaseTime": "2013-09-20T13:45:40+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0cbfca4461a8a3a85039385131ed641b7cd7063ec1f5b01cc5b6a0900a418c42",
+            "type": "snapshot",
+            "version": "13w38b"
+        },
+        {
+            "releaseTime": "2013-09-19T16:34:21+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b3be5581a844c58e6e428cec096e3873727ef630b61846deab73c533d738ed7c",
+            "type": "snapshot",
+            "version": "13w38a"
+        },
+        {
+            "releaseTime": "2013-09-19T15:52:37+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "cd4dab55c1e117655d2a511901bfba6cb33016d5563a8e721def53fa94583120",
+            "type": "release",
+            "version": "1.6.4"
+        },
+        {
+            "releaseTime": "2013-09-13T10:54:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c99b6bac8bf8b6ce175d1e815cb498ea7435a681e457dcb1ced17380add943b6",
+            "type": "snapshot",
+            "version": "1.6.3"
+        },
+        {
+            "releaseTime": "2013-09-13T10:54:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2bba4cf3ec40af78a0b5626bd461993f12f907e711a1273c78883d3c9ee5f10a",
+            "type": "snapshot",
+            "version": "13w37b"
+        },
+        {
+            "releaseTime": "2013-09-12T14:23:14+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f035f594b6eb0f1f5458929cdb3d099a3ce40ec513d596dade43c91f018833f5",
+            "type": "snapshot",
+            "version": "13w37a"
+        },
+        {
+            "releaseTime": "2013-09-06T12:31:58+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "cd09a342bd7fc08fa077ea564fba99e2d2a1e455e2ee24840601f5500daee16f",
+            "type": "snapshot",
+            "version": "13w36b"
+        },
+        {
+            "releaseTime": "2013-09-05T13:05:40+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "734074863db057a85ca92c3cdcd84ff6f9cd33397aa0165c917f5184dfa87d59",
+            "type": "snapshot",
+            "version": "13w36a"
+        },
+        {
+            "releaseTime": "2013-07-05T13:09:02+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4342785addd430e10295e9e5b0d21a4709b85494656b64b14db3ee759db5fd04",
+            "type": "release",
+            "version": "1.6.2"
+        },
+        {
+            "releaseTime": "2013-06-28T14:48:41+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f46c68343250094a3ee61ca55a1e2db119fda1dac817665db5feea87dd2eb9f8",
+            "type": "release",
+            "version": "1.6.1"
+        },
+        {
+            "releaseTime": "2013-06-25T13:08:56+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4f0e6ec443b0e97ba2526845c9925345bffe14b7eb2079a7412b43772a2a14b0",
+            "type": "snapshot",
+            "version": "1.6"
+        },
+        {
+            "releaseTime": "2013-06-24T16:06:06+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0b8dd7031f2ab5bb5da868ce9155f4fbcd8a80b504b5f8cb37535409bd20349f",
+            "type": "snapshot",
+            "version": "13w26a"
+        },
+        {
+            "releaseTime": "2013-06-20T15:23:37+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8cf3c4e7d995c4d87ca8a947572ae72083c8f469edf8ebf46618cb3cb10e18d5",
+            "type": "snapshot",
+            "version": "13w25c"
+        },
+        {
+            "releaseTime": "2013-06-18T15:13:27+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "bcc6951d4b30aa5dc098d8cba9d3d67d32f099de72085e98397281321f2fc4be",
+            "type": "snapshot",
+            "version": "13w25b"
+        },
+        {
+            "releaseTime": "2013-06-17T14:08:06+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "06989a7a337b519badf5957106953c089c5bb598b0b40ac9bb7d17fc72ad4874",
+            "type": "snapshot",
+            "version": "13w25a"
+        },
+        {
+            "releaseTime": "2013-06-14T12:19:13+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "57ea9adda05ae95101b909f16f2f40837af8b10a17472f210a27bcac80b48fac",
+            "type": "snapshot",
+            "version": "13w24b"
+        },
+        {
+            "releaseTime": "2013-06-13T15:32:23+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "02ed9b5ee3c8b6470093e7958202521e976a72c98d5709c6a54e400b80d10ba5",
+            "type": "snapshot",
+            "version": "13w24a"
+        },
+        {
+            "releaseTime": "2013-06-08T00:32:01+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b2c5579041f6f959459396e17076aec9deb3d3940dd2080008a8370cec630586",
+            "type": "snapshot",
+            "version": "13w23b"
+        },
+        {
+            "releaseTime": "2013-06-07T16:04:20+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "279f2002d073aba6447b7f99ca7e26739a123d96cd7754c50dcabe735750a978",
+            "type": "snapshot",
+            "version": "13w23a"
+        },
+        {
+            "releaseTime": "2013-05-30T14:38:40+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b60db6bd03c92bdac1153fe4cd7edede22ef0c0471fb4180b27c3c5691cbb7ab",
+            "type": "snapshot",
+            "version": "13w22a"
+        },
+        {
+            "releaseTime": "2013-05-27T08:50:42+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "699ccde2a206d6e5d592c65e79849e992d82de39418681cdf4de62fa67edf6a1",
+            "type": "snapshot",
+            "version": "13w21b"
+        },
+        {
+            "releaseTime": "2013-05-23T15:38:28+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "13ab2114daac919c2e268954ec22e115e837e59074b177af1b29f9cc38a2417a",
+            "type": "snapshot",
+            "version": "13w21a"
+        },
+        {
+            "releaseTime": "2013-05-10T14:48:02+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2cc0c5b323e3defe20b8358550bca2128d5b8bf2b94e0babea49986cca6f9043",
+            "type": "snapshot",
+            "version": "13w19a"
+        },
+        {
+            "releaseTime": "2013-05-03T09:19:35+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "05008a64aa80e748666ddf02aab115be4a2095f59d9c90d863527d72166cf727",
+            "type": "snapshot",
+            "version": "13w18c"
+        },
+        {
+            "releaseTime": "2013-05-02T17:12:25+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2a05e6e89698293a51459645e08e8fa7e8b99ba10a97c0285b653e609610249e",
+            "type": "snapshot",
+            "version": "13w18b"
+        },
+        {
+            "releaseTime": "2013-05-02T15:45:59+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0253da601b7c90da2504c0eafeef9a5bf1551aa53f672e065fe91a5f28d09183",
+            "type": "snapshot",
+            "version": "13w18a"
+        },
+        {
+            "releaseTime": "2013-04-25T15:50:00+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "eafc856fc44e2cc7cdb0b486c470aaf52725224520f80ff45cab2de9996b289f",
+            "type": "snapshot",
+            "version": "13w17a"
+        },
+        {
+            "releaseTime": "2013-04-25T17:45:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "30a90610991acd44ffeebed64727e3c9568cf679bb328bce6037b720bd0b2772",
+            "type": "release",
+            "version": "1.5.2"
+        },
+        {
+            "releaseTime": "2013-04-23T21:51:22+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "69ca8edf03f07a2244e61bdc27eacb21161fcff5459be5192e034c4e5db24fa1",
+            "type": "snapshot",
+            "version": "13w16b"
+        },
+        {
+            "releaseTime": "2013-04-21T12:49:30+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c2e98bfd62fe3edeca8db52fdafa06921b506e15af4893dc740532ef7763a139",
+            "type": "snapshot",
+            "version": "13w16a"
+        },
+        {
+            "releaseTime": "2013-03-20T12:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ce69512c690862b4507d60ae2c7fd136953ec252dfa6b7f8085b944f0b30b46e",
+            "type": "release",
+            "version": "1.5.1"
+        },
+        {
+            "releaseTime": "2013-03-07T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "16fd5e8652cf732dc7011ff4880a98fa5a15b82b4ce34651f7202eec81b47012",
+            "type": "snapshot",
+            "version": "1.5"
+        },
+        {
+            "releaseTime": "2012-12-28T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f6051442ba192a7ef84f63e5666d27affb071e34bc8f720472440adc527b0633",
+            "type": "release",
+            "version": "1.4.7"
+        },
+        {
+            "releaseTime": "2012-12-20T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "1247eab41fb21eaff9bd0fd1085db72449484047edc62664fc74dd821379b307",
+            "type": "release",
+            "version": "1.4.6"
+        },
+        {
+            "releaseTime": "2012-11-20T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "63c019f74de6e51c6ff3ffbff7a79a99f25fc3b194084c73c29a48fba7a820af",
+            "type": "release",
+            "version": "1.4.5"
+        },
+        {
+            "releaseTime": "2012-11-14T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "479a88f4c9aff0888c5ae9560661c94dda0de372c81243a5abf526f75e83e85c",
+            "type": "release",
+            "version": "1.4.4"
+        },
+        {
+            "releaseTime": "2012-11-01T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "479c2b6761ac922660b5d444f3ade2158d33a5889c7a987d95f8975aa2007665",
+            "type": "snapshot",
+            "version": "1.4.3"
+        },
+        {
+            "releaseTime": "2012-10-25T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "6ae75a6fbb573c947cb8b61b9c361aa1e407ab5782a2dc36b1f177d113ae8153",
+            "type": "release",
+            "version": "1.4.2"
+        },
+        {
+            "releaseTime": "2012-10-23T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7a330e331d23dd58c5a4fe0f4e76877d32838a53d5da166bcec63f4865e2199f",
+            "type": "snapshot",
+            "version": "1.4.1"
+        },
+        {
+            "releaseTime": "2012-10-19T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d565ea2a99c89e347336a02a6519018db0c4538f773aa09dd798d78e51baf38e",
+            "type": "snapshot",
+            "version": "1.4"
+        },
+        {
+            "releaseTime": "2012-08-16T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "60cc820378935e799e857fe64850c0733fbc84036a9ffdc78f23fc1621de6995",
+            "type": "release",
+            "version": "1.3.2"
+        },
+        {
+            "releaseTime": "2012-08-01T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "29e8a8b2f308aa425a4456614200e28ea43442d8e05cdba70dd7a8ba80ee5e83",
+            "type": "release",
+            "version": "1.3.1"
+        },
+        {
+            "releaseTime": "2012-07-26T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "506285eb00cb30eb5cac78c7db72e21c75a727934ca73d8ba404e950bdd469d3",
+            "type": "snapshot",
+            "version": "1.3"
+        },
+        {
+            "releaseTime": "2012-03-30T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "9c987d0ebb37fc8072401502626233cacfd3b6374a534e02a97eb9d5872a054a",
+            "type": "release",
+            "version": "1.2.5"
+        },
+        {
+            "releaseTime": "2012-03-22T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "83a3846beb5ddd6974e95e77e6f9f7114023977f49aad1ff125d409e4ad314d7",
+            "type": "release",
+            "version": "1.2.4"
+        },
+        {
+            "releaseTime": "2012-03-02T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e909646e14bf6f555939655430e1eb3a579966426698786f7b60a0cd14a3c23b",
+            "type": "release",
+            "version": "1.2.3"
+        },
+        {
+            "releaseTime": "2012-03-01T00:00:01+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "aac4d998226ed65eb6dd18c0a4e97a7cc8061da32aea25a134b84d8e7d4b8fa9",
+            "type": "release",
+            "version": "1.2.2"
+        },
+        {
+            "releaseTime": "2012-03-01T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c794071d4cb83ca31a8f092beb072ff94efd4773bc83f89b73d4f3550b8b5efb",
+            "type": "release",
+            "version": "1.2.1"
+        },
+        {
+            "releaseTime": "2012-01-12T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "4b3ca78d3688ce2cea3025e94eee3ecc378b8caa0d4c8377539783eca1430e0c",
+            "type": "release",
+            "version": "1.1"
+        },
+        {
+            "releaseTime": "2011-11-18T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2c00ee7190fbf9354d080058b9dba60b12f69f2624bff59d3f715034d5875950",
+            "type": "release",
+            "version": "1.0"
+        },
+        {
+            "releaseTime": "2011-09-19T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c975b92895b240f0935ef115e04d5264610f6a3dcc58b7a78dfb1e6bdd9170fa",
+            "type": "old_beta",
+            "version": "b1.8.1"
+        },
+        {
+            "releaseTime": "2011-09-15T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "232d316cde5aec8caa613eaf59d5cca3b23716dd431fed3979c7ee56ecdddcd4",
+            "type": "old_beta",
+            "version": "b1.8"
+        },
+        {
+            "releaseTime": "2011-07-08T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2dd8b1416f9f46cb3d6e17f0769cc6c21fbb2e729f2f510add2665d54adef107",
+            "type": "old_beta",
+            "version": "b1.7.3"
+        },
+        {
+            "releaseTime": "2011-07-01T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "465b72780d3cf4a62cd4e73c0c8356b8b26f496d773e0a184ff251898751fe5c",
+            "type": "old_beta",
+            "version": "b1.7.2"
+        },
+        {
+            "releaseTime": "2011-06-30T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ad71bfa7c4f396680317e1dc602fc4141ecadfdcf47538825ece198f873ef1fc",
+            "type": "old_beta",
+            "version": "b1.7"
+        },
+        {
+            "releaseTime": "2011-05-31T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "3718797355791719885b5d3eef538ae71451444d940ceb0abce60dae4c5cd1db",
+            "type": "old_beta",
+            "version": "b1.6.6"
+        },
+        {
+            "releaseTime": "2011-05-28T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "08e6d8702ed03a44700bd4312b14ebf0164c95349b9046f766ea27b48dad291f",
+            "type": "old_beta",
+            "version": "b1.6.5"
+        },
+        {
+            "releaseTime": "2011-05-26T00:00:04+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "bd303bf4ddfd3791ab22a279fcbf6e4ee7bcc351ebbd9e6681c64a3fd2eb1af8",
+            "type": "old_beta",
+            "version": "b1.6.4"
+        },
+        {
+            "releaseTime": "2011-05-26T00:00:03+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "fa5af8378ebd08099b2080281bc89bafed62610f9315ed52f0556a53c85ab62e",
+            "type": "old_beta",
+            "version": "b1.6.3"
+        },
+        {
+            "releaseTime": "2011-05-26T00:00:02+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b558212a874a1143a64ea078ae8cc40a3c647da8f626af7a9de7247641465b32",
+            "type": "old_beta",
+            "version": "b1.6.2"
+        },
+        {
+            "releaseTime": "2011-05-26T00:00:01+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7dc6e07df37c2105305cd76349c9658d5ec5ec5ccb7539bd4237857ab73b647e",
+            "type": "old_beta",
+            "version": "b1.6.1"
+        },
+        {
+            "releaseTime": "2011-05-26T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7c57e9c102a4d9bdd8835c1d9cc859d120154bad9caca10b121150d295a08550",
+            "type": "old_beta",
+            "version": "b1.6"
+        },
+        {
+            "releaseTime": "2011-04-20T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "de2cf2fb64869479f4d7a0f82a0dd0c4e02e4d94a6e1862749e35af74e20eb5c",
+            "type": "old_beta",
+            "version": "b1.5_01"
+        },
+        {
+            "releaseTime": "2011-04-19T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f1ded9a362ccfeff7aad1cbe1644f8f7962ca9c566a28f72a0fa4681312947f3",
+            "type": "old_beta",
+            "version": "b1.5"
+        },
+        {
+            "releaseTime": "2011-04-05T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "37d38cdd01ccf0cf439fabab91a1a6b6e8e5b8acbc9b20535bef9ee937bf10dc",
+            "type": "old_beta",
+            "version": "b1.4_01"
+        },
+        {
+            "releaseTime": "2011-03-31T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c84d1e7dd703fe3f87d3d2a42a1fa740c8e7ddc39622d90f906dee614fce0783",
+            "type": "old_beta",
+            "version": "b1.4"
+        },
+        {
+            "releaseTime": "2011-02-23T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8eb113167ce1f3c62b6485d4dbc0d1717aa45a8e3a8b661322d077723c6d920f",
+            "type": "old_beta",
+            "version": "b1.3_01"
+        },
+        {
+            "releaseTime": "2011-02-22T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d7e9685dd7acc8d0bb349c1f4e927a844f9ca7458ed1334d5b7383ec0dac55f0",
+            "type": "old_beta",
+            "version": "b1.3b"
+        },
+        {
+            "releaseTime": "2011-01-21T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ac46f9d5f839341b5f04145054b559f1fa1a3b1d08afa03d09ecf57cb6e56439",
+            "type": "old_beta",
+            "version": "b1.2_02"
+        },
+        {
+            "releaseTime": "2011-01-14T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "06d7b67fba41d843b1ce6631925d4f6f3a68d43dee54e6e8e0433aa853b4d1ad",
+            "type": "old_beta",
+            "version": "b1.2_01"
+        },
+        {
+            "releaseTime": "2011-01-13T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b36e3552e80faff5337528494eace206a115e3c27c81ab0bf4ed95357cf5b015",
+            "type": "old_beta",
+            "version": "b1.2"
+        },
+        {
+            "releaseTime": "2010-12-22T00:00:01+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "1a3c8e9a1e910b4b20d03a07e8f917da95bdd5c4d3c967022b1e3fe20f23bd35",
+            "type": "old_beta",
+            "version": "b1.1_02"
+        },
+        {
+            "releaseTime": "2010-12-22T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "cee9bfa7333a4afb56643ca1d2596f8b33c10d0b78eec73000ca018a75ca061f",
+            "type": "old_beta",
+            "version": "b1.1_01"
+        },
+        {
+            "releaseTime": "2010-12-21T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "bec317a060316d65b60ac550120468c0449a55e5418dbd08ba0cd9a479bfe165",
+            "type": "old_beta",
+            "version": "b1.0.2"
+        },
+        {
+            "releaseTime": "2010-12-20T00:00:01+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "764a42a3210337a436aa8709ecdf12648cb3d2e77599415729cd7995b43f9500",
+            "type": "old_beta",
+            "version": "b1.0_01"
+        },
+        {
+            "releaseTime": "2010-12-20T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "a51ffcdb44ffd46ed7ef9f3a0ffad57287d907b660fc735e172da57eb37f3b7e",
+            "type": "old_beta",
+            "version": "b1.0"
+        },
+        {
+            "releaseTime": "2010-12-03T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8fa8bf535f7973f9131ee09b718916513c2d3260bd1005919904be3d6ea3edc8",
+            "type": "old_alpha",
+            "version": "a1.2.6"
+        },
+        {
+            "releaseTime": "2010-12-01T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "8ffe9bfdc4d2da4da86fe814c9d3f8167be77e02338fdbe19adfc23ac5aa9573",
+            "type": "old_alpha",
+            "version": "a1.2.5"
+        },
+        {
+            "releaseTime": "2010-11-30T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2f983287c51b041915b907c093f43c0c0c907ec0d531493a2a523af5ae03e784",
+            "type": "old_alpha",
+            "version": "a1.2.4_01"
+        },
+        {
+            "releaseTime": "2010-11-26T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0b88076f23d011a24499551d59f8479fb8ce0136e7d586af2913fc5977e86da0",
+            "type": "old_alpha",
+            "version": "a1.2.3_04"
+        },
+        {
+            "releaseTime": "2010-11-25T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "c5a0b2892002076a86a60e1534c31874d504532d19bd6c2c6c64698295057bfc",
+            "type": "old_alpha",
+            "version": "a1.2.3_02"
+        },
+        {
+            "releaseTime": "2010-11-24T00:00:01+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b0f5646cd8ed8b5bb5869b34f3bfea5eb123909519cdc93afb3f10b5f229acb4",
+            "type": "old_alpha",
+            "version": "a1.2.3_01"
+        },
+        {
+            "releaseTime": "2010-11-24T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "eba8989385cf9d76e1698d7aefeeab6e5667aacf174be6d9b0c06bc65c86d955",
+            "type": "old_alpha",
+            "version": "a1.2.3"
+        },
+        {
+            "releaseTime": "2010-11-10T00:00:01+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b224bcb7afb7373e57069ecaabc044ccc6ece226f5876e7409e85f54388db0f8",
+            "type": "old_alpha",
+            "version": "a1.2.2b"
+        },
+        {
+            "releaseTime": "2010-11-10T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f7d4982e52f67695eae05a54f33d85839206970f7d124092eaa68907199b8081",
+            "type": "old_alpha",
+            "version": "a1.2.2a"
+        },
+        {
+            "releaseTime": "2010-11-05T00:00:01+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b477656cf53f06873693a87b3484c8c32e93aa76e9b5dca0a74b4fb534bbf3bf",
+            "type": "old_alpha",
+            "version": "a1.2.1_01"
+        },
+        {
+            "releaseTime": "2010-11-05T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "0752ab74a39282b5a9278c3eaf780e41ec323971fc461606c62f4efc8b54b000",
+            "type": "old_alpha",
+            "version": "a1.2.1"
+        },
+        {
+            "releaseTime": "2010-11-04T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "08ec187f6fbc855e2308dc396c2f2ca7610e3ed84d9e813e3cad141d644e5979",
+            "type": "old_alpha",
+            "version": "a1.2.0_02"
+        },
+        {
+            "releaseTime": "2010-10-31T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "127202e6e2eeb9bc02b1461b08937a0b8723ee21384bc403d4a0668f63fe65fc",
+            "type": "old_alpha",
+            "version": "a1.2.0_01"
+        },
+        {
+            "releaseTime": "2010-10-30T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "233e181eb804eafdebc863c8ecc60b52eb54eb66dadb05c0164d3ef3d3287424",
+            "type": "old_alpha",
+            "version": "a1.2.0"
+        },
+        {
+            "releaseTime": "2010-09-23T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f8b88c186b55e7007ff9ca295dc633efee43f5586a8339e937c3daf7c99c5640",
+            "type": "old_alpha",
+            "version": "a1.1.2_01"
+        },
+        {
+            "releaseTime": "2010-09-20T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "22259f485c970d245635b2403427f0b5110ea20a6b318d4e275b98369ed500e2",
+            "type": "old_alpha",
+            "version": "a1.1.2"
+        },
+        {
+            "releaseTime": "2010-09-13T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "839ff251b4254e4846c19b65b28941596df574bbadef9bf82c95c7d1d14a9a95",
+            "type": "old_alpha",
+            "version": "a1.1.0"
+        },
+        {
+            "releaseTime": "2010-08-23T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "26785db4ac939797b0701937d51d2f68f862048c3edd9ef688c0d15ed33ca116",
+            "type": "old_alpha",
+            "version": "a1.0.17_04"
+        },
+        {
+            "releaseTime": "2010-08-20T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "5f8c7b9a22834fc31a147144b015fe4709b299f35be22a2c94abd8c025ceb3fa",
+            "type": "old_alpha",
+            "version": "a1.0.17_02"
+        },
+        {
+            "releaseTime": "2010-08-12T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e0c5198273e1b36549fa07e4684b499f423dc182c31f8663adbe04041a62fe51",
+            "type": "old_alpha",
+            "version": "a1.0.16"
+        },
+        {
+            "releaseTime": "2010-08-04T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7be6bf67a225070d9ff339201803f51d05bead1b7a03ceaa37bd1e9dee9c7286",
+            "type": "old_alpha",
+            "version": "a1.0.15"
+        },
+        {
+            "releaseTime": "2010-07-30T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "d7975022633994b4d50c33709f5a32543a628eb0959c80e63c93c83c8b104651",
+            "type": "old_alpha",
+            "version": "a1.0.14"
+        },
+        {
+            "releaseTime": "2010-07-23T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "e0e3b60772a9d72de26445d69b44e95ca7a41ba731b504039fe857e8b069fe12",
+            "type": "old_alpha",
+            "version": "a1.0.11"
+        },
+        {
+            "releaseTime": "2010-07-13T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "eda7fc740b776b8abe3a40de52a56d275dcf223b692d7c85584883cf3244391f",
+            "type": "old_alpha",
+            "version": "a1.0.5_01"
+        },
+        {
+            "releaseTime": "2010-07-09T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "32abcf640c02fe33169d7eb19b478831ab11296e2bf988fb839243ac9f6ffe32",
+            "type": "old_alpha",
+            "version": "a1.0.4"
+        },
+        {
+            "releaseTime": "2010-06-16T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "98dc40ab3732dcb2d773ce41cbf8bd07520e91d8146eb3cfd1b87d4b9ac3a248",
+            "type": "old_alpha",
+            "version": "inf-20100618"
+        },
+        {
+            "releaseTime": "2009-12-22T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "2ba63198f73bbe72a27af6cb9506ebe1bbced886e515e255988043396d5ac2c9",
+            "type": "old_alpha",
+            "version": "c0.30_01c"
+        },
+        {
+            "releaseTime": "2009-12-02T00:00:00+02:00",
+            "sha256": "b0c9b64535b5ed4f447460c6cbe7112a0e2aa48ef97b15ec7246dca638173fa2",
+            "type": "old_alpha",
+            "version": "4k"
+        },
+        {
+            "releaseTime": "2009-05-31T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "b99c0bb352f0fb67d405ec5a6902b112df7e5c88ee93513bd09123095dc2c434",
+            "type": "old_alpha",
+            "version": "c0.0.13a"
+        },
+        {
+            "releaseTime": "2009-05-22T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "f4296d25eb2c86403ded001a6208a8c5c86ded3c6423021ea46113bb0a53682d",
+            "type": "old_alpha",
+            "version": "c0.0.13a_03"
+        },
+        {
+            "releaseTime": "2009-05-17T00:00:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "dc0d6e2dc01b169fc43e6d851d6937d92d217365b5e3319e095ead5fbb4a59f4",
+            "type": "old_alpha",
+            "version": "c0.0.11a"
+        },
+        {
+            "releaseTime": "2009-05-16T13:48:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "5d6dbcc64a384e4de3917edcc2da072d75a7e9cb006936ccd10d7d4661a3ce58",
+            "type": "old_alpha",
+            "version": "rd-161348"
+        },
+        {
+            "releaseTime": "2009-05-16T00:52:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "ab8150af6e7e23af40ebd45acd2464dc6dd3f8191bab10197bbe195d0cd9d290",
+            "type": "old_alpha",
+            "version": "rd-160052"
+        },
+        {
+            "releaseTime": "2009-05-14T22:00:00+00:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "7628d6b790c16f9b41b180cc5ad6580350005db1490d9588459db7b9dcadf517",
+            "type": "old_alpha",
+            "version": "rd-20090515"
+        },
+        {
+            "releaseTime": "2009-05-13T23:28:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "73bf2f906ddf17116406e55417aeab6e341401af0f59486fba9e60a45549d1da",
+            "type": "old_alpha",
+            "version": "rd-132328"
+        },
+        {
+            "releaseTime": "2009-05-13T22:11:00+02:00",
+            "requires": [
+                {
+                    "suggests": "2.9.0",
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "sha256": "122546f14c2c91371de0d9c6886f50e224c1a708c579c5b0aa3fe89379b1812b",
+            "type": "old_alpha",
+            "version": "rd-132211"
+        }
+    ]
+}
