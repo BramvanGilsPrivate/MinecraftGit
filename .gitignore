@@ -1,0 +1,35 @@
+#Ignore Cache File
+/MultiMC/metacache
+
+#Ignore Configuration specific files
+/MultiMC/multimc.cfg
+
+#Ignore all logs
+/MultiMC/*.log
+
+#Ignore notifications
+/MultiMC/notifications*
+
+#Ignore theme specific files
+/MultiMC/themes/custom/theme.json
+/MultiMC/themes/custom/themeStyle.css
+
+#Ignore translation specific files
+/MultiMC/translations/index
+/MultiMC/translations/mmc_nl.qm
+
+#Ignore all account related data
+/MultiMC/accounts.json
+/MultiMC/accounts/*
+
+#Ignore Assets
+/MultiMC/assets
+
+#Ignore Libraries
+/MultiMC/libraries
+
+#Ignore instance logs
+/MultiMC/instances/*/.minecraft/logs/*
+
+#Ignore instance configuration
+#/MultiMC/instances/*/instance.cfg
