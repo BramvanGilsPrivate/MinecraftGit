@@ -31,5 +31,8 @@
 #Ignore instance logs
 /MultiMC/instances/*/.minecraft/logs/*
 
+#Ignore that realms bullshit
+/MultiMC/instances/*/.minecraft/realms_persistance.json
+
 #Ignore instance configuration
 #/MultiMC/instances/*/instance.cfg
