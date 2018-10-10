@@ -35,7 +35,7 @@
 /MultiMC/instances/*/.minecraft/realms_persistence.json
 
 #Ignore some bullshit regarding icons that are apparently temporary
-/MultiMC/instances/*/.minecraft/icon.png
+#/MultiMC/instances/*/.minecraft/icon.png
 
 #Ignore instance configuration
 #/MultiMC/instances/*/instance.cfg
