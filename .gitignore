@@ -33,6 +33,3 @@
 
 #Ignore that realms bullshit
 /MultiMC/instances/*/.minecraft/realms_persistence.json
-
-#Ignore instance configuration
-#/MultiMC/instances/*/instance.cfg
